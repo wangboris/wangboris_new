@@ -1,0 +1,7 @@
+{"bar_card": "00797504", "full_name": "Mr. Jonathan Scott Stoger", "cases_count": 2, "all_cases_count": 130}
+{"bar_card": "24046274", "full_name": "Ms. Liberty Dawn Lay", "cases_count": 2, "all_cases_count": 36}
+{"bar_card": "16245550", "full_name": "Ms. Karen S. Precella", "cases_count": 1, "all_cases_count": 86}
+{"bar_card": "18600600", "full_name": "Mr. Gregory  Duane 'Greg' Smith", "cases_count": 1, "all_cases_count": 315}
+{"bar_card": "24007574", "full_name": "Jeffrey Scott Lowenstein", "cases_count": 1, "all_cases_count": 22}
+{"bar_card": "24060397", "full_name": "Mr. Allen Ryan 'Ryan' Paulsen", "cases_count": 1, "all_cases_count": 27}
+{"bar_card": "24084523", "full_name": "Joseph Robert 'Joe' Greenhill", "cases_count": 1, "all_cases_count": 42}

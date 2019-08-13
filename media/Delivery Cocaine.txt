@@ -1,0 +1,4 @@
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 2, "all_cases_count": 189}
+{"bar_card": "11707550", "full_name": "Ms. Suzanne Marie Kramer", "cases_count": 1, "all_cases_count": 378}
+{"bar_card": "22243420", "full_name": "Mr. Thomas Anthony 'Tom' Zakes", "cases_count": 1, "all_cases_count": 129}
+{"bar_card": "24055658", "full_name": "Mr. Alexis Enrique 'Alex' Hernandez", "cases_count": 1, "all_cases_count": 64}

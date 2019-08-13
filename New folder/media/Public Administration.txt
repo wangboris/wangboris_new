@@ -1,0 +1,1 @@
+{"bar_card": "24090464", "full_name": "Andrew Augustus Whitlock III", "cases_count": 4, "all_cases_count": 11}

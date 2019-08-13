@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% block content%}
+  <h4 class="text-center mt-4">WebLink for ID:{{ assignlink.email }} </h4>
+<a href="javascript:{document.getElementById('logout').submit()}" class="float-right btn btn-outline-primary ">Logout</a><br/>
+  <form id="logout" method="POST" action="{% url 'logout' %}" >
+    {% csrf_token %}
+    <input type="hidden"/>
+  </form>
+<table class="mt-5  table table-hover">
+  <thead>
+    <tr>
+      <th>IP</th>
+      <th >Date</th>
+      <th >Time</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for timeinfo in timeinfos.all %}
+    <tr class="table-light">
+      <td>{{timeinfo.ip}}</td>
+      <td>{{timeinfo.date}}</td>
+      <td>{{timeinfo.time}}</td>
+    </tr>
+  {%endfor%}
+
+  </tbody>
+</table>
+<a href="{% url 'admin_dashboard' %}" class="btn btn-info">Back</a>
+
+{% endblock%}

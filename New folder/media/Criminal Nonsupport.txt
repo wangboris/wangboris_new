@@ -1,0 +1,5 @@
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 5, "all_cases_count": 628}
+{"bar_card": "00795437", "full_name": "Mr. James 'Jim' Huggler", "cases_count": 2, "all_cases_count": 626}
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 2, "all_cases_count": 792}
+{"bar_card": "24001236", "full_name": "Mr. Patrick Gordon Barkman", "cases_count": 2, "all_cases_count": 94}
+{"bar_card": "15369200", "full_name": "Mr. John L. '\"Jack\"' Owen", "cases_count": 1, "all_cases_count": 300}

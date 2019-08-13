@@ -1,0 +1,3 @@
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "24074267", "full_name": "Ms. Meghan Elizabeth Hausler", "cases_count": 1, "all_cases_count": 7}
+{"bar_card": "24074269", "full_name": "Mr. Benjamin Allen 'Ben' Geslison", "cases_count": 1, "all_cases_count": 23}

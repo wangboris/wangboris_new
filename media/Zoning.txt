@@ -1,0 +1,1 @@
+{"bar_card": "00796744", "full_name": "Mr. James Stuart 'Jim' Hering", "cases_count": 2, "all_cases_count": 68}

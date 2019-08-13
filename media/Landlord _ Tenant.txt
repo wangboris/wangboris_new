@@ -1,0 +1,3 @@
+{"bar_card": "13913800", "full_name": "Mr. David H. Melasky", "cases_count": 2, "all_cases_count": 69}
+{"bar_card": "24041839", "full_name": "Mr. Dylan Benjamen Russell", "cases_count": 2, "all_cases_count": 175}
+{"bar_card": "01520050", "full_name": "Mr. Daryl W. Bailey", "cases_count": 1, "all_cases_count": 20}

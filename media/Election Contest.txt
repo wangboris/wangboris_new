@@ -1,0 +1,1 @@
+{"bar_card": "24041839", "full_name": "Mr. Dylan Benjamen Russell", "cases_count": 2, "all_cases_count": 175}

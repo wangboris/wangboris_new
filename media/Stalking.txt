@@ -1,0 +1,2 @@
+{"bar_card": "24035844", "full_name": "Ms. Lindsay Owen Williams", "cases_count": 2, "all_cases_count": 65}
+{"bar_card": "24027592", "full_name": "Mr. Calvin Deshon Parks", "cases_count": 1, "all_cases_count": 45}

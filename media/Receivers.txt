@@ -1,0 +1,6 @@
+{"bar_card": "00796744", "full_name": "Mr. James Stuart 'Jim' Hering", "cases_count": 2, "all_cases_count": 68}
+{"bar_card": "24069404", "full_name": "Mr. Jeffrey David 'Jeff' Boyd", "cases_count": 2, "all_cases_count": 6}
+{"bar_card": "00787731", "full_name": "Mr. Michael D. Hudgins", "cases_count": 1, "all_cases_count": 90}
+{"bar_card": "16245550", "full_name": "Ms. Karen S. Precella", "cases_count": 1, "all_cases_count": 86}
+{"bar_card": "18838700", "full_name": "Ms. M. Joy 'Joy M. Soloway' Soloway", "cases_count": 1, "all_cases_count": 173}
+{"bar_card": "24012975", "full_name": "Mr. Steven  Jon Knight", "cases_count": 1, "all_cases_count": 134}

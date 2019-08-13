@@ -1,0 +1,12 @@
+{"bar_card": "00791700", "full_name": "Mr. Timothy B. 'Tim' Soefje", "cases_count": 1, "all_cases_count": 164}
+{"bar_card": "00795437", "full_name": "Mr. James 'Jim' Huggler", "cases_count": 1, "all_cases_count": 626}
+{"bar_card": "00797589", "full_name": "Mr. Enrico Baltazar 'Rico' Valdez", "cases_count": 1, "all_cases_count": 426}
+{"bar_card": "00798601", "full_name": "Ms. Kristy Layne Wright", "cases_count": 1, "all_cases_count": 216}
+{"bar_card": "10098100", "full_name": "Mr. Douglas W. Howell III", "cases_count": 1, "all_cases_count": 707}
+{"bar_card": "11707550", "full_name": "Ms. Suzanne Marie Kramer", "cases_count": 1, "all_cases_count": 374}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 1, "all_cases_count": 203}
+{"bar_card": "19959725", "full_name": "Mr. Wayln G. Thompson", "cases_count": 1, "all_cases_count": 779}
+{"bar_card": "21633500", "full_name": "Mr. Joseph Rutherford Willie II", "cases_count": 1, "all_cases_count": 346}
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 1, "all_cases_count": 628}
+{"bar_card": "24065890", "full_name": "Mr. Donald Norman 'Don' Payne", "cases_count": 1, "all_cases_count": 17}
+{"bar_card": "90001299", "full_name": "Ms. Abigail L. 'Abby' Keenan", "cases_count": 1, "all_cases_count": 18}

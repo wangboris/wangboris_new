@@ -1,0 +1,10 @@
+{"bar_card": "00785767", "full_name": "Mr. Eugene Antone Clayborn", "cases_count": 1, "all_cases_count": 78}
+{"bar_card": "00794092", "full_name": "Ms. Heather Leah 'Heather' King", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "12437100", "full_name": "Mr. Keith Clark Livesay", "cases_count": 1, "all_cases_count": 347}
+{"bar_card": "16017700", "full_name": "Mr. James B. Pinson", "cases_count": 1, "all_cases_count": 173}
+{"bar_card": "24032706", "full_name": "Ms. Jessica 'Jessica' Zavadil", "cases_count": 1, "all_cases_count": 68}
+{"bar_card": "24041411", "full_name": "Mr. Jadd Fitzgerald Masso", "cases_count": 1, "all_cases_count": 74}
+{"bar_card": "24053027", "full_name": "Andrew Bryce 'Andy' Thompson", "cases_count": 1, "all_cases_count": 5}
+{"bar_card": "24078726", "full_name": "Mr. Craig McCam Jacobs", "cases_count": 1, "all_cases_count": 16}
+{"bar_card": "24092777", "full_name": "Brandon Whit Maxey", "cases_count": 1, "all_cases_count": 4}

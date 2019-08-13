@@ -1,0 +1,3 @@
+{"bar_card": "16984600", "full_name": "Mr. Michael David Robbins", "cases_count": 1, "all_cases_count": 611}
+{"bar_card": "24043997", "full_name": "Ms. Marcella Paige Williams", "cases_count": 1, "all_cases_count": 80}
+{"bar_card": "24049077", "full_name": "Ms. Sarah E. Roland", "cases_count": 1, "all_cases_count": 33}

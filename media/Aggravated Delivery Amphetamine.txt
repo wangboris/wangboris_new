@@ -1,0 +1,1 @@
+{"bar_card": "24085201", "full_name": "Vikash Madhusudan Bhakta", "cases_count": 1, "all_cases_count": 9}

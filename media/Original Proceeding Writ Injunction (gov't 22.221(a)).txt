@@ -1,0 +1,1 @@
+{"bar_card": "13336520", "full_name": "Mr. Robert C. McCabe", "cases_count": 1, "all_cases_count": 46}

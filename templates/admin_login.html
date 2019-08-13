@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block content%}
+  <!-- error -->
+  {% if error %}
+    <p class="text-danger">{{error}}</p>
+  {%endif%}
+  <!-- Login Page  -->
+  <form id="form" class="text-center" method="POST"  action="{% url 'admin_login' %}">
+    {% csrf_token %}
+    <label  for="email">Enter Admin Login ID</label>
+    <input type="text" class="form-control" name="email" id="email1"  placeholder="Enter email">
+    <label for="password">Password</label>
+    <input type="password" class="form-control" name="password" id="password" placeholder="Password"><br/>
+    <input type="submit" class=" form-control btn btn-success mb-2 " value="Login"/>
+<!--    <button type="button" class="btn btn-info form-control" data-toggle="modal" data-target="#myModal">RESET PASSWORD</button>-->
+  </form>
+
+{% endblock %}

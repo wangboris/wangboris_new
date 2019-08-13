@@ -1,0 +1,2 @@
+{"bar_card": "11707550", "full_name": "Ms. Suzanne Marie Kramer", "cases_count": 1, "all_cases_count": 378}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 1, "all_cases_count": 481}

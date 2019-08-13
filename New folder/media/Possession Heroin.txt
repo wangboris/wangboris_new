@@ -1,0 +1,1 @@
+{"bar_card": "24025628", "full_name": "Mr. Bryan Gerald Rutherford", "cases_count": 2, "all_cases_count": 195}

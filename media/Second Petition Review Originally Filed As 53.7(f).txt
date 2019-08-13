@@ -1,0 +1,19 @@
+{"bar_card": "24047013", "full_name": "Ms. Elissa Underwood  Marek ", "cases_count": 4, "all_cases_count": 40}
+{"bar_card": "18600600", "full_name": "Mr. Gregory  Duane 'Greg' Smith", "cases_count": 3, "all_cases_count": 315}
+{"bar_card": "00791985", "full_name": "Mr. Gregory Norman 'Greg Ziegler' Ziegler", "cases_count": 2, "all_cases_count": 196}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 2, "all_cases_count": 161}
+{"bar_card": "16245550", "full_name": "Ms. Karen S. Precella", "cases_count": 2, "all_cases_count": 86}
+{"bar_card": "18838700", "full_name": "Ms. M. Joy 'Joy M. Soloway' Soloway", "cases_count": 2, "all_cases_count": 173}
+{"bar_card": "19713750", "full_name": "Ms. Mary Taylor 'Mary Henderson' Henderson", "cases_count": 2, "all_cases_count": 38}
+{"bar_card": "20578100", "full_name": "Ms. Dorothea Lee 'Dotty' Vidal", "cases_count": 2, "all_cases_count": 21}
+{"bar_card": "24041086", "full_name": "Mr. James Wesley 'Wes' Hendrix", "cases_count": 2, "all_cases_count": 2}
+{"bar_card": "24041839", "full_name": "Mr. Dylan Benjamen Russell", "cases_count": 2, "all_cases_count": 175}
+{"bar_card": "00787421", "full_name": "Ms. Amy Eikel", "cases_count": 1, "all_cases_count": 24}
+{"bar_card": "00790782", "full_name": "Mr. Kendall Matthew 'Kendall' Gray", "cases_count": 1, "all_cases_count": 69}
+{"bar_card": "03692650", "full_name": "Mr. Aaron  Scott 'Scott' Campbell", "cases_count": 1, "all_cases_count": 21}
+{"bar_card": "16492500", "full_name": "Mr. Bruce Edwin Ramage", "cases_count": 1, "all_cases_count": 87}
+{"bar_card": "16642000", "full_name": "Mr. Harry Max Reasoner", "cases_count": 1, "all_cases_count": 73}
+{"bar_card": "19679450", "full_name": "Mr. David Ross Noel Taubenfeld", "cases_count": 1, "all_cases_count": 12}
+{"bar_card": "24003728", "full_name": "Ms. Sondrea Joy King", "cases_count": 1, "all_cases_count": 26}
+{"bar_card": "24073872", "full_name": "Mr. Nicholas Barrows Bacarisse", "cases_count": 1, "all_cases_count": 48}
+{"bar_card": "24073910", "full_name": "Ms. Lisa Anne Bennett", "cases_count": 1, "all_cases_count": 8}

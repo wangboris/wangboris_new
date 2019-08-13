@@ -1,0 +1,9 @@
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 2, "all_cases_count": 433}
+{"bar_card": "24041834", "full_name": "Mr. Dal Ray 'Dal' Ruggles", "cases_count": 2, "all_cases_count": 78}
+{"bar_card": "90001898", "full_name": "Ms. Kristen Elaine Jernigan", "cases_count": 2, "all_cases_count": 243}
+{"bar_card": "90001967", "full_name": "Mr. Brian Marcus Middleton", "cases_count": 2, "all_cases_count": 452}
+{"bar_card": "24041722", "full_name": "Mr. John Carlos Prezas", "cases_count": 1, "all_cases_count": 56}
+{"bar_card": "17610700", "full_name": "Mr. Forrest L. Sanderson III", "cases_count": 1, "all_cases_count": 99}
+{"bar_card": "06662300", "full_name": "Mr. David A. Escamilla", "cases_count": 1, "all_cases_count": 314}
+{"bar_card": "10098100", "full_name": "Mr. Douglas W. Howell III", "cases_count": 1, "all_cases_count": 707}
+{"bar_card": "00795437", "full_name": "Mr. James 'Jim' Huggler", "cases_count": 1, "all_cases_count": 626}

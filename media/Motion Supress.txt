@@ -1,0 +1,3 @@
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 3, "all_cases_count": 189}
+{"bar_card": "19834000", "full_name": "Mr. Lane D. Thibodeaux", "cases_count": 1, "all_cases_count": 151}
+{"bar_card": "22243420", "full_name": "Mr. Thomas Anthony 'Tom' Zakes", "cases_count": 1, "all_cases_count": 129}

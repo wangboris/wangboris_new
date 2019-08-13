@@ -1,0 +1,14 @@
+{"bar_card": "16492500", "full_name": "Mr. Bruce Edwin Ramage", "cases_count": 3, "all_cases_count": 87}
+{"bar_card": "00788407", "full_name": "Mr. N. West 'West' Short", "cases_count": 2, "all_cases_count": 108}
+{"bar_card": "00790782", "full_name": "Mr. Kendall Matthew 'Kendall' Gray", "cases_count": 2, "all_cases_count": 69}
+{"bar_card": "00791985", "full_name": "Mr. Gregory Norman 'Greg Ziegler' Ziegler", "cases_count": 2, "all_cases_count": 196}
+{"bar_card": "04086600", "full_name": "Ms. Andrea Chan", "cases_count": 2, "all_cases_count": 146}
+{"bar_card": "04462500", "full_name": "Mr. Perry Cockerell", "cases_count": 2, "all_cases_count": 83}
+{"bar_card": "22285050", "full_name": "Mr. Michael John ZomcIk", "cases_count": 2, "all_cases_count": 60}
+{"bar_card": "24012371", "full_name": "Mr. Kevin Graham Cain", "cases_count": 2, "all_cases_count": 146}
+{"bar_card": "24041839", "full_name": "Mr. Dylan Benjamen Russell", "cases_count": 2, "all_cases_count": 175}
+{"bar_card": "24070751", "full_name": "Mr. Maitreya Tomlinson", "cases_count": 2, "all_cases_count": 104}
+{"bar_card": "00789246", "full_name": "Ms. Tammy Marie Danberg-Farney", "cases_count": 1, "all_cases_count": 34}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "13336520", "full_name": "Mr. Robert C. McCabe", "cases_count": 1, "all_cases_count": 46}
+{"bar_card": "18838700", "full_name": "Ms. M. Joy 'Joy M. Soloway' Soloway", "cases_count": 1, "all_cases_count": 173}

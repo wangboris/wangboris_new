@@ -1,0 +1,1 @@
+{"bar_card": "19834000", "full_name": "Mr. Lane D. Thibodeaux", "cases_count": 1, "all_cases_count": 151}

@@ -1,0 +1,5 @@
+{"bar_card": "05857050", "full_name": "Mr. Frederick Thomas 'Fred' Dietrich", "cases_count": 2, "all_cases_count": 14}
+{"bar_card": "24044940", "full_name": "Ms. Brandi K. Stokes", "cases_count": 2, "all_cases_count": 13}
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 1, "all_cases_count": 792}
+{"bar_card": "24085441", "full_name": "Michelle Marie Lubbert", "cases_count": 1, "all_cases_count": 9}
+{"bar_card": "24089110", "full_name": "Mr. Paul Michael Leopold", "cases_count": 1, "all_cases_count": 25}

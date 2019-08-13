@@ -1,0 +1,5 @@
+{"bar_card": "00788354", "full_name": "Mr. Clint Foster Sare", "cases_count": 1, "all_cases_count": 277}
+{"bar_card": "00796633", "full_name": "Mr. Kevin  Michael Givens", "cases_count": 1, "all_cases_count": 212}
+{"bar_card": "01448900", "full_name": "Mr. Gregory R. 'Greg' Ave", "cases_count": 1, "all_cases_count": 271}
+{"bar_card": "13610650", "full_name": "Mr. Charles W. McGarry", "cases_count": 1, "all_cases_count": 287}
+{"bar_card": "24050883", "full_name": "Mr. Matthew Joseph Kita", "cases_count": 1, "all_cases_count": 166}

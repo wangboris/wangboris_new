@@ -1,0 +1,1 @@
+{"bar_card": "10302100", "full_name": "Mr. Thomas  Shepherd 'Thomas' Hunter", "cases_count": 1, "all_cases_count": 3}

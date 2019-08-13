@@ -1,0 +1,4 @@
+{"bar_card": "09307050", "full_name": "Mr. Karl E. Hays", "cases_count": 4, "all_cases_count": 126}
+{"bar_card": "24070751", "full_name": "Mr. Maitreya Tomlinson", "cases_count": 4, "all_cases_count": 104}
+{"bar_card": "24066318", "full_name": "Mr. Andrew Farish 'ANDREW' York", "cases_count": 1, "all_cases_count": 15}
+{"bar_card": "24073872", "full_name": "Mr. Nicholas Barrows Bacarisse", "cases_count": 1, "all_cases_count": 48}

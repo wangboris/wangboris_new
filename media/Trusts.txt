@@ -1,0 +1,3 @@
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "09307050", "full_name": "Mr. Karl E. Hays", "cases_count": 1, "all_cases_count": 126}
+{"bar_card": "24012975", "full_name": "Mr. Steven  Jon Knight", "cases_count": 1, "all_cases_count": 134}

@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block head_title %} Home || {{ block.super }} {% endblock head_title %}
+
+{% block content %}
+    <div class="container jumbotron title-board" style="text-align: center;">
+        <div class="row title-bar-shape">
+            <div style="margin: auto"><h1>Welcome to <span style="color: yellow !important;">"Attorneys DataBase"</span></h1></div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <a href="/search_lawyers"><button style="font-size: 25px">Search Attorneys </button></a>
+            </div>
+             <div class="col-md-6">
+                <a href="/cases_types"><button style="font-size: 25px">All Cases Types</button></a>
+            </div>
+
+        </div>
+    </div>
+    <div class="container board_shadow"></div>
+
+
+{% endblock %}

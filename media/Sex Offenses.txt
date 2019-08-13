@@ -1,0 +1,5 @@
+{"bar_card": "24035844", "full_name": "Ms. Lindsay Owen Williams", "cases_count": 2, "all_cases_count": 65}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 1, "all_cases_count": 1000}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 1, "all_cases_count": 481}
+{"bar_card": "24053478", "full_name": "Ms. Andrea Ren'ee Simmons", "cases_count": 1, "all_cases_count": 221}
+{"bar_card": "24064140", "full_name": "Aaron C. 'Clay' Graham", "cases_count": 1, "all_cases_count": 38}

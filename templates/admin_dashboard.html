@@ -1,0 +1,65 @@
+{% extends 'base.html' %}
+{% block content%}
+  <h4 class="text-center mt-4">Admin:{{user.username}} </h4>
+  <a href="javascript:{document.getElementById('logout').submit()}" class="float-right btn btn-outline-primary ">Logout</a><br/>
+  <form id="logout" method="POST" action="{% url 'logout' %}" >
+    {% csrf_token %}
+    <input type="hidden"/>
+  </form>
+  <form  id="dashboard" method="POST" action="{% url 'admin_dashboard' %}" enctype="multipart/form-data" >
+    {% csrf_token %}
+    <div class="row mt-4 ">
+      <div class="col-lg-4 col-md-3 " >
+        <input type="text" class="form-control" name="user_id" placeholder="ID">
+      </div>
+      <div class="col-lg-4 col-md-3 " >
+        <input type="text" class="form-control" name="weblinkallowed" placeholder="WEBLINKS ALLOWED">
+      </div>
+      <div class="col-lg-4 col-md-3" >
+        <input type="text" class="form-control" name="numberoftime" placeholder="NUMBER OF TIMES">
+      </div>
+    </div>
+    <div class="mt-4  ml-4 text-center ">
+      <input type="submit"  class="btn btn-primary from-control" name="add" value="ADD"/>
+    </div>
+  </form>
+
+  <!-- TABLE -->
+  <form method="POST">
+    {% csrf_token %}
+    <table class="mt-5  table table-hover">
+      <thead>
+        <tr>
+          <th></th>
+          <th >User_Id</th>
+          <th >LINK ID</th>
+          <th >ALLOWED</th>
+          <th >LEFT</th>
+          <th >USED</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for datatable in datatable.all %}
+        <tr class="table-light">
+          <th>
+            <div class="form-check">
+              <label class="form-check-label">
+                <input class="form-check-input " type="checkbox" name="items" value="{{datatable.id}}" >
+              </label>
+            </div>
+          </th>
+          <td>{{ datatable.email }}</td>
+          <td>{{ datatable.link_id }}</td>
+          <td>{{ datatable.allowed }}</td>
+          <td>{{ datatable.left }}</td>
+          <td><a href="{% url 'admin_time' datatable.id %}">{{ datatable.used }}</a></td>
+        </tr>
+        </form>
+        {%endfor%}
+      </tbody>
+    </table>
+    <input type="submit" name="delete" class="btn btn-danger float-right" value="Delete Selected Items "/>
+  </form>
+
+
+{% endblock %}

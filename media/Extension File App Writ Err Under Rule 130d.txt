@@ -1,0 +1,5 @@
+{"bar_card": "02333900", "full_name": "Mr. James Wade Birdwell", "cases_count": 2, "all_cases_count": 199}
+{"bar_card": "16245550", "full_name": "Ms. Karen S. Precella", "cases_count": 2, "all_cases_count": 86}
+{"bar_card": "19684500", "full_name": "Ben Taylor", "cases_count": 2, "all_cases_count": 226}
+{"bar_card": "08311900", "full_name": "Mr. Robert Charles Graves", "cases_count": 1, "all_cases_count": 6}
+{"bar_card": "18838700", "full_name": "Ms. M. Joy 'Joy M. Soloway' Soloway", "cases_count": 1, "all_cases_count": 173}

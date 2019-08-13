@@ -1,0 +1,20 @@
+{"bar_card": "02333900", "full_name": "Mr. James Wade Birdwell", "cases_count": 8, "all_cases_count": 199}
+{"bar_card": "00788407", "full_name": "Mr. N. West 'West' Short", "cases_count": 6, "all_cases_count": 108}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 4, "all_cases_count": 1000}
+{"bar_card": "24070751", "full_name": "Mr. Maitreya Tomlinson", "cases_count": 4, "all_cases_count": 104}
+{"bar_card": "00783715", "full_name": "Mr. Sean Edward Breen", "cases_count": 2, "all_cases_count": 67}
+{"bar_card": "00787128", "full_name": "Ms. Sarah Katherine Brandon", "cases_count": 2, "all_cases_count": 9}
+{"bar_card": "04462500", "full_name": "Mr. Perry Cockerell", "cases_count": 2, "all_cases_count": 83}
+{"bar_card": "24060015", "full_name": "Mr. Daron L. Janis", "cases_count": 2, "all_cases_count": 79}
+{"bar_card": "24060397", "full_name": "Mr. Allen Ryan 'Ryan' Paulsen", "cases_count": 2, "all_cases_count": 27}
+{"bar_card": "24064888", "full_name": "Ms. Janice Lynn 'Janice' Berg", "cases_count": 2, "all_cases_count": 82}
+{"bar_card": "00790782", "full_name": "Mr. Kendall Matthew 'Kendall' Gray", "cases_count": 1, "all_cases_count": 69}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "18600600", "full_name": "Mr. Gregory  Duane 'Greg' Smith", "cases_count": 1, "all_cases_count": 315}
+{"bar_card": "24007574", "full_name": "Jeffrey Scott Lowenstein", "cases_count": 1, "all_cases_count": 22}
+{"bar_card": "24008053", "full_name": "Ms. Kelli Lynn Smith", "cases_count": 1, "all_cases_count": 65}
+{"bar_card": "24027676", "full_name": "Ms. Hilaree Ann Casada", "cases_count": 1, "all_cases_count": 58}
+{"bar_card": "24071159", "full_name": "Afton Roette Trevino", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "24074205", "full_name": "Mr. Jonathan Dane 'Jon' Fischer", "cases_count": 1, "all_cases_count": 3}
+{"bar_card": "24086734", "full_name": "Kristen Reid  Vander-Plas", "cases_count": 1, "all_cases_count": 6}
+{"bar_card": "24105748", "full_name": "Christian Joseph  Cowart", "cases_count": 1, "all_cases_count": 1}

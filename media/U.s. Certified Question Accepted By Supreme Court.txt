@@ -1,0 +1,6 @@
+{"bar_card": "24060015", "full_name": "Mr. Daron L. Janis", "cases_count": 4, "all_cases_count": 79}
+{"bar_card": "24012371", "full_name": "Mr. Kevin Graham Cain", "cases_count": 2, "all_cases_count": 146}
+{"bar_card": "00790782", "full_name": "Mr. Kendall Matthew 'Kendall' Gray", "cases_count": 1, "all_cases_count": 69}
+{"bar_card": "16492500", "full_name": "Mr. Bruce Edwin Ramage", "cases_count": 1, "all_cases_count": 87}
+{"bar_card": "24060548", "full_name": "Mr. Richard David Salgado", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "24074897", "full_name": "Mr. Adam Hiatt Pierson", "cases_count": 1, "all_cases_count": 8}

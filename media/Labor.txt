@@ -1,0 +1,4 @@
+{"bar_card": "00797504", "full_name": "Mr. Jonathan Scott Stoger", "cases_count": 2, "all_cases_count": 130}
+{"bar_card": "00797202", "full_name": "Ms. Meredith Bishop Parenti", "cases_count": 1, "all_cases_count": 32}
+{"bar_card": "19713750", "full_name": "Ms. Mary Taylor 'Mary Henderson' Henderson", "cases_count": 1, "all_cases_count": 38}
+{"bar_card": "24055673", "full_name": "Ms. Yvonne Y. 'Yvonne' Ho", "cases_count": 1, "all_cases_count": 18}

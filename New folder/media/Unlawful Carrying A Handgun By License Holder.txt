@@ -1,0 +1,22 @@
+{"bar_card": "24056166", "full_name": "Mr. Gary Emil Prust", "cases_count": 3, "all_cases_count": 103}
+{"bar_card": "20541700", "full_name": "Mr. Paul C. Velte IV", "cases_count": 2, "all_cases_count": 22}
+{"bar_card": "24064140", "full_name": "Aaron C. 'Clay' Graham", "cases_count": 2, "all_cases_count": 35}
+{"bar_card": "04705400", "full_name": "Mr. Joseph A. Connors III", "cases_count": 1, "all_cases_count": 338}
+{"bar_card": "04793500", "full_name": "Ms. Elizabeth L. 'Lindy' Borchardt", "cases_count": 1, "all_cases_count": 16}
+{"bar_card": "06625280", "full_name": "Mr. James Michael 'Jim' English", "cases_count": 1, "all_cases_count": 73}
+{"bar_card": "08716800", "full_name": "Mr. Theodore C. 'ted' Hake", "cases_count": 1, "all_cases_count": 540}
+{"bar_card": "12266480", "full_name": "Ms. Katherine Lynn 'Kathy' Levy", "cases_count": 1, "all_cases_count": 174}
+{"bar_card": "15369200", "full_name": "Mr. John L. '\"Jack\"' Owen", "cases_count": 1, "all_cases_count": 300}
+{"bar_card": "17610700", "full_name": "Mr. Forrest L. Sanderson III", "cases_count": 1, "all_cases_count": 99}
+{"bar_card": "17790500", "full_name": "Mr. Stanley G. Schneider", "cases_count": 1, "all_cases_count": 711}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 1, "all_cases_count": 477}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 1, "all_cases_count": 203}
+{"bar_card": "24028272", "full_name": "Mr. Edmund Milton 'Skip' Davis", "cases_count": 1, "all_cases_count": 29}
+{"bar_card": "24048238", "full_name": "Mr. Christopher Michael 'Chris' Eaton", "cases_count": 1, "all_cases_count": 53}
+{"bar_card": "24051190", "full_name": "Ms. Kimberly Joy 'Kim' Duncan", "cases_count": 1, "all_cases_count": 163}
+{"bar_card": "24076098", "full_name": "Mark Charles Kratovil", "cases_count": 1, "all_cases_count": 106}
+{"bar_card": "24084057", "full_name": "Jeffrey David Weatherford", "cases_count": 1, "all_cases_count": 3}
+{"bar_card": "00791700", "full_name": "Mr. Timothy B. 'Tim' Soefje", "cases_count": 1, "all_cases_count": 164}
+{"bar_card": "50511187", "full_name": "Ms. Hilary Ruth Sheard", "cases_count": 1, "all_cases_count": 24}
+{"bar_card": "00798601", "full_name": "Ms. Kristy Layne Wright", "cases_count": 1, "all_cases_count": 216}
+{"bar_card": "02916300", "full_name": "Mr. William A. Bratton III", "cases_count": 1, "all_cases_count": 120}

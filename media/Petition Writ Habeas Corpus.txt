@@ -1,0 +1,6 @@
+{"bar_card": "00796586", "full_name": "Mrs. Kimberly Frutiger", "cases_count": 2, "all_cases_count": 2}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 1, "all_cases_count": 1000}
+{"bar_card": "01174000", "full_name": "Mr. David B. Anderson", "cases_count": 1, "all_cases_count": 9}
+{"bar_card": "09380928", "full_name": "Mr. G. David 'David' Heiman", "cases_count": 1, "all_cases_count": 32}
+{"bar_card": "09587100", "full_name": "Mr. Boris A. Hidalgo", "cases_count": 1, "all_cases_count": 29}
+{"bar_card": "18600600", "full_name": "Mr. Gregory  Duane 'Greg' Smith", "cases_count": 1, "all_cases_count": 315}

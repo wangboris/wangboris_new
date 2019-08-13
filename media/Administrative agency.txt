@@ -1,0 +1,1 @@
+{"bar_card": "11476350", "full_name": "Mr. Charles G. Kingsbury", "cases_count": 1, "all_cases_count": 80}

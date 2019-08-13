@@ -1,0 +1,1 @@
+{"bar_card": "04801500", "full_name": "Mr. Tim B. Copeland", "cases_count": 8, "all_cases_count": 497}

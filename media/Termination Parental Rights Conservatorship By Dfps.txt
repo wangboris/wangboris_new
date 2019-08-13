@@ -1,0 +1,7 @@
+{"bar_card": "24053478", "full_name": "Ms. Andrea Ren'ee Simmons", "cases_count": 6, "all_cases_count": 221}
+{"bar_card": "11358050", "full_name": "Mr. Charles L. 'Charles' Kessie", "cases_count": 3, "all_cases_count": 15}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 3, "all_cases_count": 170}
+{"bar_card": "00795341", "full_name": "Ms. Kara Pratt", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "19834000", "full_name": "Mr. Lane D. Thibodeaux", "cases_count": 1, "all_cases_count": 151}
+{"bar_card": "24012377", "full_name": "Mr. Ramiro Canales", "cases_count": 1, "all_cases_count": 7}
+{"bar_card": "24041117", "full_name": "Ms. Christina Gail 'Christina' Hollwarth", "cases_count": 1, "all_cases_count": 3}

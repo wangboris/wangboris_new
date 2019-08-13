@@ -1,0 +1,9 @@
+{"bar_card": "10098100", "full_name": "Mr. Douglas W. Howell III", "cases_count": 3, "all_cases_count": 707}
+{"bar_card": "19959725", "full_name": "Mr. Wayln G. Thompson", "cases_count": 2, "all_cases_count": 779}
+{"bar_card": "00786464", "full_name": "Mr. R. Scott 'Scott' Shearer", "cases_count": 2, "all_cases_count": 108}
+{"bar_card": "17646450", "full_name": "Mr. Renato Santos Jr.", "cases_count": 1, "all_cases_count": 135}
+{"bar_card": "21633500", "full_name": "Mr. Joseph Rutherford Willie II", "cases_count": 1, "all_cases_count": 346}
+{"bar_card": "24076098", "full_name": "Mark Charles Kratovil", "cases_count": 1, "all_cases_count": 106}
+{"bar_card": "24090464", "full_name": "Andrew Augustus Whitlock III", "cases_count": 1, "all_cases_count": 11}
+{"bar_card": "00795301", "full_name": "Mr. Clay S. 'Clay' Conrad", "cases_count": 1, "all_cases_count": 78}
+{"bar_card": "00797589", "full_name": "Mr. Enrico Baltazar 'Rico' Valdez", "cases_count": 1, "all_cases_count": 426}

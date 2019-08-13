@@ -1,0 +1,8 @@
+{"bar_card": "18600600", "full_name": "Mr. Gregory  Duane 'Greg' Smith", "cases_count": 6, "all_cases_count": 315}
+{"bar_card": "00788666", "full_name": "Ms. Elizabeth Ann Wiley", "cases_count": 4, "all_cases_count": 101}
+{"bar_card": "19684500", "full_name": "Ben Taylor", "cases_count": 3, "all_cases_count": 226}
+{"bar_card": "11216840", "full_name": "Mr. Charles Timothy Kelly", "cases_count": 2, "all_cases_count": 44}
+{"bar_card": "00787421", "full_name": "Ms. Amy Eikel", "cases_count": 1, "all_cases_count": 24}
+{"bar_card": "12816200", "full_name": "Mr. Alan Neil Magenheim", "cases_count": 1, "all_cases_count": 98}
+{"bar_card": "18562620", "full_name": "Ms. Deanna Dean 'Deanna' Lovett", "cases_count": 1, "all_cases_count": 140}
+{"bar_card": "18838700", "full_name": "Ms. M. Joy 'Joy M. Soloway' Soloway", "cases_count": 1, "all_cases_count": 173}

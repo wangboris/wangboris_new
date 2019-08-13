@@ -1,0 +1,3 @@
+{"bar_card": "24064140", "full_name": "Aaron C. 'Clay' Graham", "cases_count": 2, "all_cases_count": 38}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 1, "all_cases_count": 481}
+{"bar_card": "24084057", "full_name": "Jeffrey David Weatherford", "cases_count": 1, "all_cases_count": 4}

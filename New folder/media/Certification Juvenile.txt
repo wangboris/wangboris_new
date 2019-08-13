@@ -1,0 +1,13 @@
+{"bar_card": "20016200", "full_name": "Mr. William Michael Thursland", "cases_count": 7, "all_cases_count": 250}
+{"bar_card": "00788692", "full_name": "Ms. Debra Ann Windsor", "cases_count": 4, "all_cases_count": 1008}
+{"bar_card": "90001967", "full_name": "Mr. Brian Marcus Middleton", "cases_count": 3, "all_cases_count": 452}
+{"bar_card": "05227500", "full_name": "Ms. Patricia Jean Cummings", "cases_count": 2, "all_cases_count": 95}
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 1, "all_cases_count": 397}
+{"bar_card": "11910100", "full_name": "Ms. Libra Joy 'Libby' Lange", "cases_count": 1, "all_cases_count": 106}
+{"bar_card": "19959725", "full_name": "Mr. Wayln G. Thompson", "cases_count": 1, "all_cases_count": 779}
+{"bar_card": "24025227", "full_name": "Ms. Bridget Woody Holloway", "cases_count": 1, "all_cases_count": 535}
+{"bar_card": "24043997", "full_name": "Ms. Marcella Paige Williams", "cases_count": 1, "all_cases_count": 80}
+{"bar_card": "24070947", "full_name": "Mr. Brian James Newman", "cases_count": 1, "all_cases_count": 61}
+{"bar_card": "24076098", "full_name": "Mark Charles Kratovil", "cases_count": 1, "all_cases_count": 106}
+{"bar_card": "06768725", "full_name": "Mr. Cary Marshall Faden", "cases_count": 1, "all_cases_count": 343}
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 1, "all_cases_count": 780}

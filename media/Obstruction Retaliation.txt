@@ -1,0 +1,3 @@
+{"bar_card": "24092227", "full_name": "William Reece 'Rhys' Carson", "cases_count": 3, "all_cases_count": 57}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 1, "all_cases_count": 1000}
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 1, "all_cases_count": 189}

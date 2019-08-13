@@ -1,0 +1,6 @@
+{"bar_card": "24043460", "full_name": "Mr. Noe M Reyes", "cases_count": 4, "all_cases_count": 26}
+{"bar_card": "24060015", "full_name": "Mr. Daron L. Janis", "cases_count": 2, "all_cases_count": 79}
+{"bar_card": "24079787", "full_name": "Mr. Jonathan Louis Chaltain", "cases_count": 2, "all_cases_count": 14}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 1, "all_cases_count": 1000}
+{"bar_card": "09307050", "full_name": "Mr. Karl E. Hays", "cases_count": 1, "all_cases_count": 126}
+{"bar_card": "21665450", "full_name": "Mr. Larry W. Wilshire", "cases_count": 1, "all_cases_count": 9}

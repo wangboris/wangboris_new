@@ -1,0 +1,5 @@
+{"bar_card": "00797504", "full_name": "Mr. Jonathan Scott Stoger", "cases_count": 2, "all_cases_count": 130}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 1, "all_cases_count": 1000}
+{"bar_card": "24012975", "full_name": "Mr. Steven  Jon Knight", "cases_count": 1, "all_cases_count": 134}
+{"bar_card": "24084523", "full_name": "Joseph Robert 'Joe' Greenhill", "cases_count": 1, "all_cases_count": 42}
+{"bar_card": "24097533", "full_name": "Courtney Brooke Corbello", "cases_count": 1, "all_cases_count": 10}

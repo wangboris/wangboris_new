@@ -1,0 +1,12 @@
+{"bar_card": "00788692", "full_name": "Ms. Debra Ann Windsor", "cases_count": 4, "all_cases_count": 1008}
+{"bar_card": "04251050", "full_name": "Mr. Stephen A. Cihal", "cases_count": 2, "all_cases_count": 37}
+{"bar_card": "16984600", "full_name": "Mr. Michael David Robbins", "cases_count": 1, "all_cases_count": 611}
+{"bar_card": "24036493", "full_name": "Mr. Christopher Arell Dorsey", "cases_count": 1, "all_cases_count": 41}
+{"bar_card": "24048179", "full_name": "Mr. Richard Keith Oliver", "cases_count": 1, "all_cases_count": 60}
+{"bar_card": "24074756", "full_name": "Mr. Nathan Edward Morey", "cases_count": 1, "all_cases_count": 158}
+{"bar_card": "24076880", "full_name": "Mr. Michael Weston Morris", "cases_count": 1, "all_cases_count": 46}
+{"bar_card": "24087326", "full_name": "D'na Marie Collins", "cases_count": 1, "all_cases_count": 6}
+{"bar_card": "24087883", "full_name": "Thomas Jay 'Thomas' Lane", "cases_count": 1, "all_cases_count": 4}
+{"bar_card": "24090464", "full_name": "Andrew Augustus Whitlock III", "cases_count": 1, "all_cases_count": 11}
+{"bar_card": "24094595", "full_name": "Cole Benjamin  Combs", "cases_count": 1, "all_cases_count": 18}
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 1, "all_cases_count": 121}

@@ -1,0 +1,3 @@
+{"bar_card": "08203900", "full_name": "Mr. Philip S. 'Phil' Gordon", "cases_count": 2, "all_cases_count": 30}
+{"bar_card": "24012371", "full_name": "Mr. Kevin Graham Cain", "cases_count": 2, "all_cases_count": 146}
+{"bar_card": "16245550", "full_name": "Ms. Karen S. Precella", "cases_count": 1, "all_cases_count": 86}

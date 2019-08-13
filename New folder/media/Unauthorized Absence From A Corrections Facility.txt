@@ -1,0 +1,2 @@
+{"bar_card": "00790919", "full_name": "Mr. Troy Alan Hornsby", "cases_count": 1, "all_cases_count": 323}
+{"bar_card": "24005798", "full_name": "Mr. Steven Michael Denny", "cases_count": 1, "all_cases_count": 49}

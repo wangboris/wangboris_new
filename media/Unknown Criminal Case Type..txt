@@ -1,0 +1,7 @@
+{"bar_card": "11707550", "full_name": "Ms. Suzanne Marie Kramer", "cases_count": 2, "all_cases_count": 378}
+{"bar_card": "11572040", "full_name": "Mr. Joseph W. Kline", "cases_count": 1, "all_cases_count": 60}
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 1, "all_cases_count": 189}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 1, "all_cases_count": 481}
+{"bar_card": "19834000", "full_name": "Mr. Lane D. Thibodeaux", "cases_count": 1, "all_cases_count": 151}
+{"bar_card": "21321600", "full_name": "Mr. Ori Tucker White", "cases_count": 1, "all_cases_count": 38}
+{"bar_card": "24003663", "full_name": "Mr. Melroy 'Mel' Koehler", "cases_count": 1, "all_cases_count": 9}

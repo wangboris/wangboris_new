@@ -1,0 +1,2 @@
+{"bar_card": "07827700", "full_name": "Ms. Ellen Gerson Tagtmeier", "cases_count": 2, "all_cases_count": 38}
+{"bar_card": "00787295", "full_name": "Mr. Thomas B. 'Thomas' Cowart", "cases_count": 1, "all_cases_count": 82}

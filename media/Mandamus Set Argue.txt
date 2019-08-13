@@ -1,0 +1,3 @@
+{"bar_card": "13395500", "full_name": "Mr. Stephen L. McCleery", "cases_count": 2, "all_cases_count": 8}
+{"bar_card": "00797202", "full_name": "Ms. Meredith Bishop Parenti", "cases_count": 1, "all_cases_count": 32}
+{"bar_card": "04970300", "full_name": "Mr. Michael J. 'Mike' Craddock", "cases_count": 1, "all_cases_count": 21}

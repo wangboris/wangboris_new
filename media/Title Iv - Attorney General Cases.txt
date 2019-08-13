@@ -1,0 +1,1 @@
+{"bar_card": "24012377", "full_name": "Mr. Ramiro Canales", "cases_count": 1, "all_cases_count": 7}

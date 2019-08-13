@@ -1,0 +1,3 @@
+{"bar_card": "01174000", "full_name": "Mr. David B. Anderson", "cases_count": 1, "all_cases_count": 9}
+{"bar_card": "16245550", "full_name": "Ms. Karen S. Precella", "cases_count": 1, "all_cases_count": 86}
+{"bar_card": "18600600", "full_name": "Mr. Gregory  Duane 'Greg' Smith", "cases_count": 1, "all_cases_count": 315}

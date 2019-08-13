@@ -1,0 +1,282 @@
+{% extends "base.html" %}
+{% load extra_filters %}
+
+{% block head_title %} Cases Types || {{ block.super }} {% endblock head_title %}
+
+{% block content %}
+<style>
+    .previous,.next{
+    border:4px solid #26759E;-webkit-box-shadow: #878787 0px 2px 2px ;-moz-box-shadow: #878787 0px 2px 2px ; box-shadow: #878787 0px 2px 2px ; -webkit-border-radius: 23px; -moz-border-radius: 23px;border-radius: 23px;font-size:13px;font-family:arial, helvetica, sans-serif; padding: 0px 10px 0px 10px;; text-decoration:none; display:inline-block;text-shadow: 2px 2px 0 rgba(0,0,0,0.3);font-weight:bold; color: #FFFFFF;
+    background-color: #3093C7; background-image: -webkit-gradient(linear, left top, left bottom, from(#3093C7), to(#1C5A85));
+    background-image: -webkit-linear-gradient(top, #3093C7, #1C5A85);
+    background-image: -moz-linear-gradient(top, #3093C7, #1C5A85);
+    background-image: -ms-linear-gradient(top, #3093C7, #1C5A85);
+    background-image: -o-linear-gradient(top, #3093C7, #1C5A85);
+    background-image: linear-gradient(to bottom, #3093C7, #1C5A85);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#3093C7, endColorstr=#1C5A85);
+    font-size: 25px;
+    }
+
+    .previous:hover,.next:hover{
+    border:4px solid #26759E;
+    background-color: #26759E; background-image: -webkit-gradient(linear, left top, left bottom, from(#26759E), to(#133D5B));
+    background-image: -webkit-linear-gradient(top, #26759E, #133D5B);
+    background-image: -moz-linear-gradient(top, #26759E, #133D5B);
+    background-image: -ms-linear-gradient(top, #26759E, #133D5B);
+    background-image: -o-linear-gradient(top, #26759E, #133D5B);
+    background-image: linear-gradient(to bottom, #26759E, #133D5B);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#26759E, endColorstr=#133D5B);
+    text-decoration: none;
+    }
+    .arrow-left,.arrow-right
+    {
+        font-size: 25px;
+    }
+    .arrow-left::before {
+        content: '\25c4';
+        padding-right: 0.5em;
+        font-size: 28px;
+        background-image: linear-gradient(to bottom, #3093C7, #1C5A85);
+        border-radius: 23px;
+        padding: 5px;
+        margin-left: -13px;
+        border: 3px solid #26759E;
+    }
+
+    .arrow-right::before {
+        content: '\25ba';
+        padding-right: 0.5em;
+        font-size: 28px;
+        background-image: linear-gradient(to bottom, #3093C7, #1C5A85);
+        border-radius: 23px;
+        padding: 5px;
+        margin-left: -26px;
+        position: relative;
+        border: 3px solid #26759E;
+        left: 28px;
+    }
+    .not-active {
+        pointer-events: none;
+        cursor: default;
+        text-decoration: none;
+        user-select: none;
+        
+        text-shadow: 2px 2px 3px rgba(86, 2, 245, 0.21)
+     }
+     .not-active .last_name
+     {
+        color: #00000008 !important;
+        text-shadow: 2px 2px 3px rgba(86, 2, 245, 0.05)
+     }
+     .alink_all_blue a span
+     {
+        font-size: 18px;
+     }
+    </style>
+    <script>
+        $(document).ready(function(){
+           // $('td a').addClass("not-active");
+        })
+    </script>
+    <div class="container" style="text-align: center">
+
+    <h1 class="sub_title">Select a Case Type from the following:</h1>
+    <br>
+
+    <div class="row">
+    <div class="col-8 mr-auto" style="margin: 0 auto;">
+    <form class="form-inline">
+        <input class="form-control" placeholder="Case Type" name="case_type" value="{{ request.GET.case_type }}">
+        <input type="submit" value="Search" class="btn btn-primary">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="checkbox" name="group" {% if group %}checked{% endif %}>
+        <label style="font-weight: bold; font-size: 18px;">&nbsp;&nbsp;Do you want to combine the results?</label>
+    </form>
+    </div>
+    </div>
+    <br>
+
+
+    <div class="container cases-types-table" style="height: 400px;overflow: auto;">
+    <table class="sortable table table-hover table-bordered" style="background: white" >
+        <thead>
+            <th>Case Type</th>
+        </thead>
+
+        <tbody>
+        {% if group %}
+            <td><a href="/lawyers_list/?case_type={{ cases }}&group={{ case }}"><strong> {{ case }}</strong></a></td>
+        {% else %}
+        {% for case in cases %}
+            {% if case.case_type == 'CHILD CUSTODY/ADOPTION/TERMINATION'%}
+            <tr style="display:none;">
+                <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+            </tr>
+            {% elif case.case_type == 'CONTINUOUS SEXUAL ABUSE OF YOUNG CHILD OR CHILDREN'%}
+            <tr style="display:none;">
+                <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+            </tr>
+            {% elif case.case_type == 'Child Custody/adoption/termination'%}
+            <tr style="display:none;">
+                <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+            </tr>
+            {% elif case.case_type == 'Writ Mandamus/prohibition'%}
+            <tr style="display:none;">
+                <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+            </tr> 
+            {% elif case.case_type == '000'%}
+            <tr style="display:none;">
+                <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+            </tr>             
+            {% elif case.case_type == 'Theft Over $200'%}
+            <tr style="display:none;">
+                <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+            </tr> 
+            {% elif case.case_type == 'Theft Over $10'%}
+            <tr style="display:none;">
+                <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+            </tr> 
+            {% elif case.case_type == 'Dfps Not Party (fam. 109.002â€”accelerated)'%}
+            <tr style="display:none;">
+                <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+            </tr>
+            {% elif case.case_type == 'But Special Timetables)'%}
+            <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>
+            {% elif case.case_type == 'Termination Parental Rights Conservatorship By Dfps (fam. 263.405â€”accelerated'%}
+                <tr style="display:none;">
+                        <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                    </tr>  
+            {% elif case.case_type == 'Administrative\agency' %}
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr> 
+            {% elif case.case_type == 'App Writ Err - Cause (3)' %}
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr> 
+            {% elif case.case_type == 'Orig 130(d) Motion(s)' %}
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>  
+            {% elif 'FA' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>                                                                                                                                                                     
+            {% elif 'IN' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>   
+            {% elif 'OTHER CIVIL' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>
+            {% elif 'MU' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>  
+            {% elif 'PET' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>                                                                                                                                                                                                                    
+            {% elif 'PO' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>
+            {% elif 'PRO' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr> 
+            {% elif 'OF' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>         
+            {% elif 'THEFT' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>
+            {% elif 'AGG' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr> 
+            {% elif 'ASS' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>  
+            {% elif 'APP' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>     
+            {% elif 'APP' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>                                                                                                                           
+            {% elif 'GL' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>  
+                
+            {% elif 'CO' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>   
+            {% elif 'VO' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>    
+            {% elif 'DWI' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>                                                           
+            {% elif 'BO' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>  
+            {% elif 'FO' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>
+            {% elif 'LA' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>   
+            {% elif 'AD' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr> 
+            {% elif 'OT' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>      
+            {% elif 'PD' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>
+            {% elif 'RO' in case.case_type %}  
+                <tr style="display:none;">
+                    <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+                </tr>                                                                                                           
+            {% else %}   
+                     
+            <tr>
+                <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+            </tr>            
+            {% endif%}
+
+        {% endfor %}
+        {% endif %}
+        </tbody>
+    </table>
+
+    </div>
+    </div>
+    
+    {% for case in cases %}
+    {% if case.session == "true" %}
+        <script>
+            $(document).ready(function(){
+                $('td a').removeClass("not-active");
+            })
+        </script>
+    {% endif %}
+{% endfor %}
+{% endblock %}

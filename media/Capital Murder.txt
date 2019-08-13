@@ -1,0 +1,14 @@
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 19, "all_cases_count": 433}
+{"bar_card": "11707550", "full_name": "Ms. Suzanne Marie Kramer", "cases_count": 11, "all_cases_count": 378}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 5, "all_cases_count": 1000}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 5, "all_cases_count": 481}
+{"bar_card": "24053478", "full_name": "Ms. Andrea Ren'ee Simmons", "cases_count": 5, "all_cases_count": 221}
+{"bar_card": "19834000", "full_name": "Mr. Lane D. Thibodeaux", "cases_count": 3, "all_cases_count": 151}
+{"bar_card": "24076880", "full_name": "Mr. Michael Weston Morris", "cases_count": 3, "all_cases_count": 49}
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 2, "all_cases_count": 189}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 2, "all_cases_count": 170}
+{"bar_card": "08193000", "full_name": "Mr. Ronald Leroy Goranson", "cases_count": 1, "all_cases_count": 76}
+{"bar_card": "14194550", "full_name": "Mr. Michael W. 'mike' Minton", "cases_count": 1, "all_cases_count": 98}
+{"bar_card": "24035844", "full_name": "Ms. Lindsay Owen Williams", "cases_count": 1, "all_cases_count": 65}
+{"bar_card": "24092227", "full_name": "William Reece 'Rhys' Carson", "cases_count": 1, "all_cases_count": 57}
+{"bar_card": "24100660", "full_name": "Nina Lynn  Scherach", "cases_count": 1, "all_cases_count": 48}

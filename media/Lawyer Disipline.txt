@@ -1,0 +1,2 @@
+{"bar_card": "24059400", "full_name": "Ms. Alison Rae Ashmore", "cases_count": 2, "all_cases_count": 26}
+{"bar_card": "24060015", "full_name": "Mr. Daron L. Janis", "cases_count": 2, "all_cases_count": 79}

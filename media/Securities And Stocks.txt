@@ -1,0 +1,2 @@
+{"bar_card": "00797202", "full_name": "Ms. Meredith Bishop Parenti", "cases_count": 1, "all_cases_count": 32}
+{"bar_card": "24080659", "full_name": "Paul James 'Paul' Downey", "cases_count": 1, "all_cases_count": 17}

@@ -1,0 +1,3 @@
+{"bar_card": "09887175", "full_name": "Ms. Mary Jo Holloway", "cases_count": 1, "all_cases_count": 59}
+{"bar_card": "11476350", "full_name": "Mr. Charles G. Kingsbury", "cases_count": 1, "all_cases_count": 80}
+{"bar_card": "22243420", "full_name": "Mr. Thomas Anthony 'Tom' Zakes", "cases_count": 1, "all_cases_count": 129}

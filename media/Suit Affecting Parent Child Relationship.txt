@@ -1,0 +1,16 @@
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 12, "all_cases_count": 1000}
+{"bar_card": "00784444", "full_name": "Ms. Michelle  Sorokwasz Lanfear", "cases_count": 10, "all_cases_count": 34}
+{"bar_card": "24064888", "full_name": "Ms. Janice Lynn 'Janice' Berg", "cases_count": 6, "all_cases_count": 82}
+{"bar_card": "09307050", "full_name": "Mr. Karl E. Hays", "cases_count": 3, "all_cases_count": 126}
+{"bar_card": "11476350", "full_name": "Mr. Charles G. Kingsbury", "cases_count": 2, "all_cases_count": 80}
+{"bar_card": "24070751", "full_name": "Mr. Maitreya Tomlinson", "cases_count": 2, "all_cases_count": 104}
+{"bar_card": "00787295", "full_name": "Mr. Thomas B. 'Thomas' Cowart", "cases_count": 1, "all_cases_count": 82}
+{"bar_card": "04381350", "full_name": "Mr. Paul Raymond Clevenger", "cases_count": 1, "all_cases_count": 17}
+{"bar_card": "05535200", "full_name": "Ms. Rebecca J. Davis", "cases_count": 1, "all_cases_count": 3}
+{"bar_card": "11707550", "full_name": "Ms. Suzanne Marie Kramer", "cases_count": 1, "all_cases_count": 378}
+{"bar_card": "21321600", "full_name": "Mr. Ori Tucker White", "cases_count": 1, "all_cases_count": 38}
+{"bar_card": "22243420", "full_name": "Mr. Thomas Anthony 'Tom' Zakes", "cases_count": 1, "all_cases_count": 129}
+{"bar_card": "24008053", "full_name": "Ms. Kelli Lynn Smith", "cases_count": 1, "all_cases_count": 65}
+{"bar_card": "24012377", "full_name": "Mr. Ramiro Canales", "cases_count": 1, "all_cases_count": 7}
+{"bar_card": "24053478", "full_name": "Ms. Andrea Ren'ee Simmons", "cases_count": 1, "all_cases_count": 221}
+{"bar_card": "24102829", "full_name": "Zach Paul  Coufal", "cases_count": 1, "all_cases_count": 2}

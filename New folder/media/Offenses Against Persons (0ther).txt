@@ -1,0 +1,5 @@
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 3, "all_cases_count": 628}
+{"bar_card": "24038768", "full_name": "Ms. Sharita W. Williams 'Sharita' Blacknall", "cases_count": 2, "all_cases_count": 49}
+{"bar_card": "00795437", "full_name": "Mr. James 'Jim' Huggler", "cases_count": 1, "all_cases_count": 626}
+{"bar_card": "18692100", "full_name": "Ms. Valencia Bush", "cases_count": 1, "all_cases_count": 126}
+{"bar_card": "24069969", "full_name": "Mr. Niles Stefan Illich", "cases_count": 1, "all_cases_count": 180}

@@ -1,0 +1,2 @@
+{"bar_card": "00788407", "full_name": "Mr. N. West 'West' Short", "cases_count": 2, "all_cases_count": 108}
+{"bar_card": "00788533", "full_name": "Mr. David Charles Thompson", "cases_count": 1, "all_cases_count": 1}

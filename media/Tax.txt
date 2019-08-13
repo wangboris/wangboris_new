@@ -1,0 +1,14 @@
+{"bar_card": "24043460", "full_name": "Mr. Noe M Reyes", "cases_count": 8, "all_cases_count": 26}
+{"bar_card": "09307050", "full_name": "Mr. Karl E. Hays", "cases_count": 7, "all_cases_count": 126}
+{"bar_card": "00797504", "full_name": "Mr. Jonathan Scott Stoger", "cases_count": 4, "all_cases_count": 130}
+{"bar_card": "04086600", "full_name": "Ms. Andrea Chan", "cases_count": 3, "all_cases_count": 146}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 2, "all_cases_count": 1000}
+{"bar_card": "00788666", "full_name": "Ms. Elizabeth Ann Wiley", "cases_count": 2, "all_cases_count": 101}
+{"bar_card": "15057500", "full_name": "Mr. George C. Noelke", "cases_count": 2, "all_cases_count": 68}
+{"bar_card": "24070027", "full_name": "Mr. Gavin Burke Justiss", "cases_count": 2, "all_cases_count": 25}
+{"bar_card": "00793641", "full_name": "Mr. Dennis Jean Drouillard", "cases_count": 1, "all_cases_count": 26}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "11795430", "full_name": "Ms. Stephanie Laird 'Stephanie Tolson' Tolson", "cases_count": 1, "all_cases_count": 28}
+{"bar_card": "19684500", "full_name": "Ben Taylor", "cases_count": 1, "all_cases_count": 226}
+{"bar_card": "21665450", "full_name": "Mr. Larry W. Wilshire", "cases_count": 1, "all_cases_count": 9}
+{"bar_card": "24073910", "full_name": "Ms. Lisa Anne Bennett", "cases_count": 1, "all_cases_count": 8}

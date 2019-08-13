@@ -1,0 +1,7 @@
+{"bar_card": "24048680", "full_name": "Mr. Michael Mowla", "cases_count": 3, "all_cases_count": 290}
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 2, "all_cases_count": 628}
+{"bar_card": "00790698", "full_name": "Mr. Kenneth B. Florence", "cases_count": 2, "all_cases_count": 25}
+{"bar_card": "24073751", "full_name": "Ms. Shara D. Saget", "cases_count": 1, "all_cases_count": 84}
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 1, "all_cases_count": 780}
+{"bar_card": "24051190", "full_name": "Ms. Kimberly Joy 'Kim' Duncan", "cases_count": 1, "all_cases_count": 163}
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 1, "all_cases_count": 792}

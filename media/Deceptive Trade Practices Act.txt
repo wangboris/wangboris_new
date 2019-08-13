@@ -1,0 +1,2 @@
+{"bar_card": "16492500", "full_name": "Mr. Bruce Edwin Ramage", "cases_count": 1, "all_cases_count": 87}
+{"bar_card": "18600600", "full_name": "Mr. Gregory  Duane 'Greg' Smith", "cases_count": 1, "all_cases_count": 315}

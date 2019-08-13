@@ -1,0 +1,10 @@
+{"bar_card": "02333900", "full_name": "Mr. James Wade Birdwell", "cases_count": 4, "all_cases_count": 199}
+{"bar_card": "24064888", "full_name": "Ms. Janice Lynn 'Janice' Berg", "cases_count": 2, "all_cases_count": 82}
+{"bar_card": "24070751", "full_name": "Mr. Maitreya Tomlinson", "cases_count": 2, "all_cases_count": 104}
+{"bar_card": "00784444", "full_name": "Ms. Michelle  Sorokwasz Lanfear", "cases_count": 1, "all_cases_count": 34}
+{"bar_card": "04462500", "full_name": "Mr. Perry Cockerell", "cases_count": 1, "all_cases_count": 83}
+{"bar_card": "09307050", "full_name": "Mr. Karl E. Hays", "cases_count": 1, "all_cases_count": 126}
+{"bar_card": "09380928", "full_name": "Mr. G. David 'David' Heiman", "cases_count": 1, "all_cases_count": 32}
+{"bar_card": "11795430", "full_name": "Ms. Stephanie Laird 'Stephanie Tolson' Tolson", "cases_count": 1, "all_cases_count": 28}
+{"bar_card": "24077430", "full_name": "Ms. Eddrea Trashawnda McKnight", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "24079007", "full_name": "Natalie Ann Anderson ", "cases_count": 1, "all_cases_count": 16}

@@ -1,0 +1,1 @@
+{"bar_card": "24053478", "full_name": "Ms. Andrea Ren'ee Simmons", "cases_count": 1, "all_cases_count": 221}

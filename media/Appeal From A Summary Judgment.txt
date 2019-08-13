@@ -1,0 +1,7 @@
+{"bar_card": "08203900", "full_name": "Mr. Philip S. 'Phil' Gordon", "cases_count": 2, "all_cases_count": 30}
+{"bar_card": "20301700", "full_name": "Mr. Richard Ellis 'Richard' Turkel", "cases_count": 2, "all_cases_count": 23}
+{"bar_card": "24008053", "full_name": "Ms. Kelli Lynn Smith", "cases_count": 2, "all_cases_count": 65}
+{"bar_card": "16115400", "full_name": "Mr. Aaron Mark Pool", "cases_count": 1, "all_cases_count": 33}
+{"bar_card": "18838700", "full_name": "Ms. M. Joy 'Joy M. Soloway' Soloway", "cases_count": 1, "all_cases_count": 173}
+{"bar_card": "19713750", "full_name": "Ms. Mary Taylor 'Mary Henderson' Henderson", "cases_count": 1, "all_cases_count": 38}
+{"bar_card": "24044994", "full_name": "Ms. Stephanie Michelle Stodghill 'Stephanie' Harp", "cases_count": 1, "all_cases_count": 3}

@@ -1,0 +1,15 @@
+{"bar_card": "00788407", "full_name": "Mr. N. West 'West' Short", "cases_count": 4, "all_cases_count": 108}
+{"bar_card": "00791985", "full_name": "Mr. Gregory Norman 'Greg Ziegler' Ziegler", "cases_count": 2, "all_cases_count": 196}
+{"bar_card": "00797504", "full_name": "Mr. Jonathan Scott Stoger", "cases_count": 2, "all_cases_count": 130}
+{"bar_card": "04462500", "full_name": "Mr. Perry Cockerell", "cases_count": 2, "all_cases_count": 83}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 1, "all_cases_count": 1000}
+{"bar_card": "00783715", "full_name": "Mr. Sean Edward Breen", "cases_count": 1, "all_cases_count": 67}
+{"bar_card": "00790782", "full_name": "Mr. Kendall Matthew 'Kendall' Gray", "cases_count": 1, "all_cases_count": 69}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "12816200", "full_name": "Mr. Alan Neil Magenheim", "cases_count": 1, "all_cases_count": 98}
+{"bar_card": "16492500", "full_name": "Mr. Bruce Edwin Ramage", "cases_count": 1, "all_cases_count": 87}
+{"bar_card": "24007807", "full_name": "Mr. Nicholas Arthur Parma", "cases_count": 1, "all_cases_count": 62}
+{"bar_card": "24027676", "full_name": "Ms. Hilaree Ann Casada", "cases_count": 1, "all_cases_count": 58}
+{"bar_card": "24066318", "full_name": "Mr. Andrew Farish 'ANDREW' York", "cases_count": 1, "all_cases_count": 15}
+{"bar_card": "24085517", "full_name": "Jonathan Frank 'Jon' Parchman", "cases_count": 1, "all_cases_count": 30}
+{"bar_card": "24093084", "full_name": "Mr. John Tyler Runde", "cases_count": 1, "all_cases_count": 11}

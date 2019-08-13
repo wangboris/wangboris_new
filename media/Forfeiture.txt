@@ -1,0 +1,2 @@
+{"bar_card": "24027592", "full_name": "Mr. Calvin Deshon Parks", "cases_count": 1, "all_cases_count": 45}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 1, "all_cases_count": 170}

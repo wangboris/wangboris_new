@@ -1,0 +1,2 @@
+{"bar_card": "07827700", "full_name": "Ms. Ellen Gerson Tagtmeier", "cases_count": 2, "all_cases_count": 38}
+{"bar_card": "04086600", "full_name": "Ms. Andrea Chan", "cases_count": 1, "all_cases_count": 146}

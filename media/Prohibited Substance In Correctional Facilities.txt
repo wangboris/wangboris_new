@@ -1,0 +1,2 @@
+{"bar_card": "24087203", "full_name": "Ms. Sarah Cathryn Kuntz Brandon", "cases_count": 2, "all_cases_count": 47}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 1, "all_cases_count": 1000}

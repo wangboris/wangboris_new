@@ -1,0 +1,1 @@
+{"bar_card": "12816200", "full_name": "Mr. Alan Neil Magenheim", "cases_count": 2, "all_cases_count": 98}

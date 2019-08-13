@@ -1,0 +1,4 @@
+{"bar_card": "00787731", "full_name": "Mr. Michael D. Hudgins", "cases_count": 1, "all_cases_count": 90}
+{"bar_card": "12816200", "full_name": "Mr. Alan Neil Magenheim", "cases_count": 1, "all_cases_count": 98}
+{"bar_card": "18838700", "full_name": "Ms. M. Joy 'Joy M. Soloway' Soloway", "cases_count": 1, "all_cases_count": 173}
+{"bar_card": "19684500", "full_name": "Ben Taylor", "cases_count": 1, "all_cases_count": 226}

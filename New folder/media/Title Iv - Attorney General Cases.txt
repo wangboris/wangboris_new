@@ -1,0 +1,5 @@
+{"bar_card": "24062194", "full_name": "Mr. Deterrean Shaunessey Gamble", "cases_count": 37, "all_cases_count": 435}
+{"bar_card": "09529400", "full_name": "Ms. Rande K. Herrell", "cases_count": 34, "all_cases_count": 593}
+{"bar_card": "00790254", "full_name": "Mr. Bruce David Bain", "cases_count": 2, "all_cases_count": 10}
+{"bar_card": "21885100", "full_name": "Ms. Cecilia M. Wood", "cases_count": 2, "all_cases_count": 50}
+{"bar_card": "24044940", "full_name": "Ms. Brandi K. Stokes", "cases_count": 1, "all_cases_count": 13}

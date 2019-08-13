@@ -1,0 +1,8 @@
+{"bar_card": "16642000", "full_name": "Mr. Harry Max Reasoner", "cases_count": 4, "all_cases_count": 73}
+{"bar_card": "00788666", "full_name": "Ms. Elizabeth Ann Wiley", "cases_count": 2, "all_cases_count": 101}
+{"bar_card": "00784961", "full_name": "Ms. Kathryn L. Shilling", "cases_count": 1, "all_cases_count": 24}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "09307050", "full_name": "Mr. Karl E. Hays", "cases_count": 1, "all_cases_count": 126}
+{"bar_card": "14194550", "full_name": "Mr. Michael W. 'mike' Minton", "cases_count": 1, "all_cases_count": 98}
+{"bar_card": "19684500", "full_name": "Ben Taylor", "cases_count": 1, "all_cases_count": 226}
+{"bar_card": "19713750", "full_name": "Ms. Mary Taylor 'Mary Henderson' Henderson", "cases_count": 1, "all_cases_count": 38}

@@ -1,0 +1,4 @@
+{"bar_card": "19834000", "full_name": "Mr. Lane D. Thibodeaux", "cases_count": 11, "all_cases_count": 151}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 10, "all_cases_count": 1000}
+{"bar_card": "11476350", "full_name": "Mr. Charles G. Kingsbury", "cases_count": 3, "all_cases_count": 80}
+{"bar_card": "24076880", "full_name": "Mr. Michael Weston Morris", "cases_count": 1, "all_cases_count": 49}

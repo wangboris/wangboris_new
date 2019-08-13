@@ -1,0 +1,12 @@
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 51, "all_cases_count": 481}
+{"bar_card": "00790323", "full_name": "Ms. Gena Blount Bunn", "cases_count": 22, "all_cases_count": 105}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 18, "all_cases_count": 1000}
+{"bar_card": "11707550", "full_name": "Ms. Suzanne Marie Kramer", "cases_count": 11, "all_cases_count": 378}
+{"bar_card": "24087203", "full_name": "Ms. Sarah Cathryn Kuntz Brandon", "cases_count": 10, "all_cases_count": 47}
+{"bar_card": "08193000", "full_name": "Mr. Ronald Leroy Goranson", "cases_count": 4, "all_cases_count": 76}
+{"bar_card": "11476350", "full_name": "Mr. Charles G. Kingsbury", "cases_count": 3, "all_cases_count": 80}
+{"bar_card": "24064140", "full_name": "Aaron C. 'Clay' Graham", "cases_count": 3, "all_cases_count": 38}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 2, "all_cases_count": 170}
+{"bar_card": "24084523", "full_name": "Joseph Robert 'Joe' Greenhill", "cases_count": 2, "all_cases_count": 42}
+{"bar_card": "24077430", "full_name": "Ms. Eddrea Trashawnda McKnight", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "24097837", "full_name": "Bao-Long Ngoc Hoang", "cases_count": 1, "all_cases_count": 9}

@@ -1,0 +1,9 @@
+{"bar_card": "19684500", "full_name": "Ben Taylor", "cases_count": 7, "all_cases_count": 226}
+{"bar_card": "18838700", "full_name": "Ms. M. Joy 'Joy M. Soloway' Soloway", "cases_count": 4, "all_cases_count": 173}
+{"bar_card": "16245550", "full_name": "Ms. Karen S. Precella", "cases_count": 3, "all_cases_count": 86}
+{"bar_card": "14194550", "full_name": "Mr. Michael W. 'mike' Minton", "cases_count": 2, "all_cases_count": 98}
+{"bar_card": "00787421", "full_name": "Ms. Amy Eikel", "cases_count": 1, "all_cases_count": 24}
+{"bar_card": "00790256", "full_name": "Mr. Bryan Lawrence 'Bryan Baker' Baker", "cases_count": 1, "all_cases_count": 35}
+{"bar_card": "03692650", "full_name": "Mr. Aaron  Scott 'Scott' Campbell", "cases_count": 1, "all_cases_count": 21}
+{"bar_card": "19712250", "full_name": "Ms. Leslie C. 'Leslie Copeland' Taylor", "cases_count": 1, "all_cases_count": 56}
+{"bar_card": "20301700", "full_name": "Mr. Richard Ellis 'Richard' Turkel", "cases_count": 1, "all_cases_count": 23}

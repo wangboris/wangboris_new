@@ -1,0 +1,19 @@
+{"bar_card": "15057500", "full_name": "Mr. George C. Noelke", "cases_count": 14, "all_cases_count": 68}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 10, "all_cases_count": 161}
+{"bar_card": "00790256", "full_name": "Mr. Bryan Lawrence 'Bryan Baker' Baker", "cases_count": 9, "all_cases_count": 35}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 4, "all_cases_count": 1000}
+{"bar_card": "00790748", "full_name": "Ms. Ann Marie 'Ana' Jordan", "cases_count": 2, "all_cases_count": 24}
+{"bar_card": "13913800", "full_name": "Mr. David H. Melasky", "cases_count": 2, "all_cases_count": 69}
+{"bar_card": "24043460", "full_name": "Mr. Noe M Reyes", "cases_count": 2, "all_cases_count": 26}
+{"bar_card": "24073872", "full_name": "Mr. Nicholas Barrows Bacarisse", "cases_count": 2, "all_cases_count": 48}
+{"bar_card": "24079499", "full_name": "Jose Luis Valtzar", "cases_count": 2, "all_cases_count": 14}
+{"bar_card": "09307050", "full_name": "Mr. Karl E. Hays", "cases_count": 1, "all_cases_count": 126}
+{"bar_card": "09618950", "full_name": "Ms. Barbara  A. Hilburn", "cases_count": 1, "all_cases_count": 66}
+{"bar_card": "19713750", "full_name": "Ms. Mary Taylor 'Mary Henderson' Henderson", "cases_count": 1, "all_cases_count": 38}
+{"bar_card": "24060397", "full_name": "Mr. Allen Ryan 'Ryan' Paulsen", "cases_count": 1, "all_cases_count": 27}
+{"bar_card": "24073910", "full_name": "Ms. Lisa Anne Bennett", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "24074269", "full_name": "Mr. Benjamin Allen 'Ben' Geslison", "cases_count": 1, "all_cases_count": 23}
+{"bar_card": "24078646", "full_name": "Aaron Michael Heath", "cases_count": 1, "all_cases_count": 1}
+{"bar_card": "24080966", "full_name": "Matthew Gregory 'Matt' Johnston", "cases_count": 1, "all_cases_count": 5}
+{"bar_card": "24087801", "full_name": "Alondra Geneva Johnson", "cases_count": 1, "all_cases_count": 6}
+{"bar_card": "24088233", "full_name": "Christopher Andrew 'Chris' Plummer", "cases_count": 1, "all_cases_count": 1}

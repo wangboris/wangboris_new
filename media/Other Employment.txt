@@ -1,0 +1,6 @@
+{"bar_card": "24059400", "full_name": "Ms. Alison Rae Ashmore", "cases_count": 2, "all_cases_count": 26}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 1, "all_cases_count": 1000}
+{"bar_card": "00787295", "full_name": "Mr. Thomas B. 'Thomas' Cowart", "cases_count": 1, "all_cases_count": 82}
+{"bar_card": "14194550", "full_name": "Mr. Michael W. 'mike' Minton", "cases_count": 1, "all_cases_count": 98}
+{"bar_card": "24090106", "full_name": "Mr. Eric Michael Friedman", "cases_count": 1, "all_cases_count": 6}
+{"bar_card": "24092739", "full_name": "Nicholas Howard 'Nick' Maddox", "cases_count": 1, "all_cases_count": 2}

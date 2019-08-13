@@ -1,0 +1,2 @@
+{"bar_card": "24051190", "full_name": "Ms. Kimberly Joy 'Kim' Duncan", "cases_count": 1, "all_cases_count": 163}
+{"bar_card": "24083252", "full_name": "Carey Colin Jensen", "cases_count": 1, "all_cases_count": 102}

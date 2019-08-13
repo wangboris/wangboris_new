@@ -1,0 +1,24 @@
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 11, "all_cases_count": 1000}
+{"bar_card": "22243420", "full_name": "Mr. Thomas Anthony 'Tom' Zakes", "cases_count": 11, "all_cases_count": 129}
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 9, "all_cases_count": 433}
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 8, "all_cases_count": 189}
+{"bar_card": "24064888", "full_name": "Ms. Janice Lynn 'Janice' Berg", "cases_count": 6, "all_cases_count": 82}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 5, "all_cases_count": 481}
+{"bar_card": "24053478", "full_name": "Ms. Andrea Ren'ee Simmons", "cases_count": 5, "all_cases_count": 221}
+{"bar_card": "09380928", "full_name": "Mr. G. David 'David' Heiman", "cases_count": 4, "all_cases_count": 32}
+{"bar_card": "11707550", "full_name": "Ms. Suzanne Marie Kramer", "cases_count": 4, "all_cases_count": 378}
+{"bar_card": "18600600", "full_name": "Mr. Gregory  Duane 'Greg' Smith", "cases_count": 4, "all_cases_count": 315}
+{"bar_card": "00790323", "full_name": "Ms. Gena Blount Bunn", "cases_count": 2, "all_cases_count": 105}
+{"bar_card": "00797504", "full_name": "Mr. Jonathan Scott Stoger", "cases_count": 2, "all_cases_count": 130}
+{"bar_card": "09587100", "full_name": "Mr. Boris A. Hidalgo", "cases_count": 2, "all_cases_count": 29}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 2, "all_cases_count": 170}
+{"bar_card": "11476350", "full_name": "Mr. Charles G. Kingsbury", "cases_count": 1, "all_cases_count": 80}
+{"bar_card": "13493200", "full_name": "Mr. Michael W. McCrum", "cases_count": 1, "all_cases_count": 4}
+{"bar_card": "19834000", "full_name": "Mr. Lane D. Thibodeaux", "cases_count": 1, "all_cases_count": 151}
+{"bar_card": "24051554", "full_name": "Mr. Andrew Kohl 'Drew' York", "cases_count": 1, "all_cases_count": 22}
+{"bar_card": "24064140", "full_name": "Aaron C. 'Clay' Graham", "cases_count": 1, "all_cases_count": 38}
+{"bar_card": "24084057", "full_name": "Jeffrey David Weatherford", "cases_count": 1, "all_cases_count": 4}
+{"bar_card": "24085517", "full_name": "Jonathan Frank 'Jon' Parchman", "cases_count": 1, "all_cases_count": 30}
+{"bar_card": "24090106", "full_name": "Mr. Eric Michael Friedman", "cases_count": 1, "all_cases_count": 6}
+{"bar_card": "24095294", "full_name": "David Wayne  Barr", "cases_count": 1, "all_cases_count": 4}
+{"bar_card": "24100919", "full_name": "Jacob Michael  Bach", "cases_count": 1, "all_cases_count": 5}

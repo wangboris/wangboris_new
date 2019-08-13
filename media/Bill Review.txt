@@ -1,0 +1,4 @@
+{"bar_card": "13336520", "full_name": "Mr. Robert C. McCabe", "cases_count": 1, "all_cases_count": 46}
+{"bar_card": "16135500", "full_name": "Mr. Eddie Michael Pope", "cases_count": 1, "all_cases_count": 2}
+{"bar_card": "18600600", "full_name": "Mr. Gregory  Duane 'Greg' Smith", "cases_count": 1, "all_cases_count": 315}
+{"bar_card": "24027221", "full_name": "Ms. Laura Hanley Carlock", "cases_count": 1, "all_cases_count": 6}

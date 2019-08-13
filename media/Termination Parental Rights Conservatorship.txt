@@ -1,0 +1,5 @@
+{"bar_card": "24003728", "full_name": "Ms. Sondrea Joy King", "cases_count": 3, "all_cases_count": 26}
+{"bar_card": "24053478", "full_name": "Ms. Andrea Ren'ee Simmons", "cases_count": 3, "all_cases_count": 221}
+{"bar_card": "09380928", "full_name": "Mr. G. David 'David' Heiman", "cases_count": 1, "all_cases_count": 32}
+{"bar_card": "21321600", "full_name": "Mr. Ori Tucker White", "cases_count": 1, "all_cases_count": 38}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 1, "all_cases_count": 170}

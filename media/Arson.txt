@@ -1,0 +1,5 @@
+{"bar_card": "24035844", "full_name": "Ms. Lindsay Owen Williams", "cases_count": 8, "all_cases_count": 65}
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 1, "all_cases_count": 189}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 1, "all_cases_count": 481}
+{"bar_card": "19834000", "full_name": "Mr. Lane D. Thibodeaux", "cases_count": 1, "all_cases_count": 151}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 1, "all_cases_count": 170}

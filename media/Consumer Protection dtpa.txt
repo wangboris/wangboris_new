@@ -1,0 +1,6 @@
+{"bar_card": "00788407", "full_name": "Mr. N. West 'West' Short", "cases_count": 5, "all_cases_count": 108}
+{"bar_card": "00796744", "full_name": "Mr. James Stuart 'Jim' Hering", "cases_count": 2, "all_cases_count": 68}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 2, "all_cases_count": 161}
+{"bar_card": "11767200", "full_name": "Mr. Curtis J. Kurhajec", "cases_count": 2, "all_cases_count": 27}
+{"bar_card": "00787731", "full_name": "Mr. Michael D. Hudgins", "cases_count": 1, "all_cases_count": 90}
+{"bar_card": "20578100", "full_name": "Ms. Dorothea Lee 'Dotty' Vidal", "cases_count": 1, "all_cases_count": 21}

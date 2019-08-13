@@ -1,0 +1,8 @@
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 7, "all_cases_count": 433}
+{"bar_card": "11476350", "full_name": "Mr. Charles G. Kingsbury", "cases_count": 3, "all_cases_count": 80}
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 2, "all_cases_count": 189}
+{"bar_card": "20301700", "full_name": "Mr. Richard Ellis 'Richard' Turkel", "cases_count": 2, "all_cases_count": 23}
+{"bar_card": "21321600", "full_name": "Mr. Ori Tucker White", "cases_count": 2, "all_cases_count": 38}
+{"bar_card": "22243420", "full_name": "Mr. Thomas Anthony 'Tom' Zakes", "cases_count": 2, "all_cases_count": 129}
+{"bar_card": "00790003", "full_name": "Mr. Michael Lyn 'Mike' Gregory", "cases_count": 1, "all_cases_count": 12}
+{"bar_card": "11707550", "full_name": "Ms. Suzanne Marie Kramer", "cases_count": 1, "all_cases_count": 378}

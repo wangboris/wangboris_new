@@ -1,0 +1,8 @@
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 2, "all_cases_count": 1000}
+{"bar_card": "00791985", "full_name": "Mr. Gregory Norman 'Greg Ziegler' Ziegler", "cases_count": 2, "all_cases_count": 196}
+{"bar_card": "00798332", "full_name": "Mr. Vincent Ka-Lin Lo", "cases_count": 2, "all_cases_count": 42}
+{"bar_card": "01654700", "full_name": "Mr. Robert S. Ballentine", "cases_count": 2, "all_cases_count": 24}
+{"bar_card": "24008614", "full_name": "Ms. Melissa D. Waden", "cases_count": 2, "all_cases_count": 39}
+{"bar_card": "00790782", "full_name": "Mr. Kendall Matthew 'Kendall' Gray", "cases_count": 1, "all_cases_count": 69}
+{"bar_card": "16115400", "full_name": "Mr. Aaron Mark Pool", "cases_count": 1, "all_cases_count": 33}
+{"bar_card": "24080659", "full_name": "Paul James 'Paul' Downey", "cases_count": 1, "all_cases_count": 17}

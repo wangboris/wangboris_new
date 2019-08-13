@@ -1,0 +1,12 @@
+{"bar_card": "00788407", "full_name": "Mr. N. West 'West' Short", "cases_count": 4, "all_cases_count": 108}
+{"bar_card": "00796744", "full_name": "Mr. James Stuart 'Jim' Hering", "cases_count": 2, "all_cases_count": 68}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 2, "all_cases_count": 161}
+{"bar_card": "13913800", "full_name": "Mr. David H. Melasky", "cases_count": 2, "all_cases_count": 69}
+{"bar_card": "18600600", "full_name": "Mr. Gregory  Duane 'Greg' Smith", "cases_count": 2, "all_cases_count": 315}
+{"bar_card": "24070751", "full_name": "Mr. Maitreya Tomlinson", "cases_count": 2, "all_cases_count": 104}
+{"bar_card": "00783715", "full_name": "Mr. Sean Edward Breen", "cases_count": 1, "all_cases_count": 67}
+{"bar_card": "00787295", "full_name": "Mr. Thomas B. 'Thomas' Cowart", "cases_count": 1, "all_cases_count": 82}
+{"bar_card": "11795430", "full_name": "Ms. Stephanie Laird 'Stephanie Tolson' Tolson", "cases_count": 1, "all_cases_count": 28}
+{"bar_card": "18838700", "full_name": "Ms. M. Joy 'Joy M. Soloway' Soloway", "cases_count": 1, "all_cases_count": 173}
+{"bar_card": "24027676", "full_name": "Ms. Hilaree Ann Casada", "cases_count": 1, "all_cases_count": 58}
+{"bar_card": "24073872", "full_name": "Mr. Nicholas Barrows Bacarisse", "cases_count": 1, "all_cases_count": 48}

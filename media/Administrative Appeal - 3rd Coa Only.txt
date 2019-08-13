@@ -1,0 +1,4 @@
+{"bar_card": "00797202", "full_name": "Ms. Meredith Bishop Parenti", "cases_count": 1, "all_cases_count": 32}
+{"bar_card": "09618950", "full_name": "Ms. Barbara  A. Hilburn", "cases_count": 1, "all_cases_count": 66}
+{"bar_card": "24070380", "full_name": "Mr. Arif Panju", "cases_count": 1, "all_cases_count": 7}
+{"bar_card": "24073910", "full_name": "Ms. Lisa Anne Bennett", "cases_count": 1, "all_cases_count": 8}

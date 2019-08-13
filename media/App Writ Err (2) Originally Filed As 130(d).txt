@@ -1,0 +1,8 @@
+{"bar_card": "02333900", "full_name": "Mr. James Wade Birdwell", "cases_count": 2, "all_cases_count": 199}
+{"bar_card": "22285050", "full_name": "Mr. Michael John ZomcIk", "cases_count": 2, "all_cases_count": 60}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "09050850", "full_name": "Ms. Amelia Susan 'Amy' Harris", "cases_count": 1, "all_cases_count": 17}
+{"bar_card": "09307050", "full_name": "Mr. Karl E. Hays", "cases_count": 1, "all_cases_count": 126}
+{"bar_card": "11767200", "full_name": "Mr. Curtis J. Kurhajec", "cases_count": 1, "all_cases_count": 27}
+{"bar_card": "14194550", "full_name": "Mr. Michael W. 'mike' Minton", "cases_count": 1, "all_cases_count": 98}
+{"bar_card": "16642000", "full_name": "Mr. Harry Max Reasoner", "cases_count": 1, "all_cases_count": 73}

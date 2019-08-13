@@ -1,0 +1,14 @@
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 39, "all_cases_count": 1000}
+{"bar_card": "24053478", "full_name": "Ms. Andrea Ren'ee Simmons", "cases_count": 11, "all_cases_count": 221}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 7, "all_cases_count": 170}
+{"bar_card": "24035844", "full_name": "Ms. Lindsay Owen Williams", "cases_count": 6, "all_cases_count": 65}
+{"bar_card": "24064888", "full_name": "Ms. Janice Lynn 'Janice' Berg", "cases_count": 4, "all_cases_count": 82}
+{"bar_card": "09380928", "full_name": "Mr. G. David 'David' Heiman", "cases_count": 2, "all_cases_count": 32}
+{"bar_card": "24085517", "full_name": "Jonathan Frank 'Jon' Parchman", "cases_count": 2, "all_cases_count": 30}
+{"bar_card": "00790323", "full_name": "Ms. Gena Blount Bunn", "cases_count": 1, "all_cases_count": 105}
+{"bar_card": "04462500", "full_name": "Mr. Perry Cockerell", "cases_count": 1, "all_cases_count": 83}
+{"bar_card": "24041117", "full_name": "Ms. Christina Gail 'Christina' Hollwarth", "cases_count": 1, "all_cases_count": 3}
+{"bar_card": "24079007", "full_name": "Natalie Ann Anderson ", "cases_count": 1, "all_cases_count": 16}
+{"bar_card": "24080764", "full_name": "Lauren Allen", "cases_count": 1, "all_cases_count": 5}
+{"bar_card": "24094796", "full_name": "Linda Leeser", "cases_count": 1, "all_cases_count": 5}
+{"bar_card": "24102829", "full_name": "Zach Paul  Coufal", "cases_count": 1, "all_cases_count": 2}

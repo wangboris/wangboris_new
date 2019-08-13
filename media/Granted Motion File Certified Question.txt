@@ -1,0 +1,1 @@
+{"bar_card": "24073872", "full_name": "Mr. Nicholas Barrows Bacarisse", "cases_count": 1, "all_cases_count": 48}

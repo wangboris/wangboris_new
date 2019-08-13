@@ -1,0 +1,13 @@
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 5, "all_cases_count": 433}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 3, "all_cases_count": 1000}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 3, "all_cases_count": 481}
+{"bar_card": "11572040", "full_name": "Mr. Joseph W. Kline", "cases_count": 2, "all_cases_count": 60}
+{"bar_card": "22243420", "full_name": "Mr. Thomas Anthony 'Tom' Zakes", "cases_count": 2, "all_cases_count": 129}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 2, "all_cases_count": 170}
+{"bar_card": "24092227", "full_name": "William Reece 'Rhys' Carson", "cases_count": 2, "all_cases_count": 57}
+{"bar_card": "00790323", "full_name": "Ms. Gena Blount Bunn", "cases_count": 1, "all_cases_count": 105}
+{"bar_card": "09887175", "full_name": "Ms. Mary Jo Holloway", "cases_count": 1, "all_cases_count": 59}
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 1, "all_cases_count": 189}
+{"bar_card": "24055658", "full_name": "Mr. Alexis Enrique 'Alex' Hernandez", "cases_count": 1, "all_cases_count": 64}
+{"bar_card": "24064140", "full_name": "Aaron C. 'Clay' Graham", "cases_count": 1, "all_cases_count": 38}
+{"bar_card": "24080001", "full_name": "Aaron Isadore 'AB' Bryant", "cases_count": 1, "all_cases_count": 2}

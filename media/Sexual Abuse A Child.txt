@@ -1,0 +1,5 @@
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 5, "all_cases_count": 170}
+{"bar_card": "24076880", "full_name": "Mr. Michael Weston Morris", "cases_count": 4, "all_cases_count": 49}
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 3, "all_cases_count": 433}
+{"bar_card": "00790323", "full_name": "Ms. Gena Blount Bunn", "cases_count": 1, "all_cases_count": 105}
+{"bar_card": "24092227", "full_name": "William Reece 'Rhys' Carson", "cases_count": 1, "all_cases_count": 57}

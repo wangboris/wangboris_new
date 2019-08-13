@@ -1,0 +1,3 @@
+{"bar_card": "24045423", "full_name": "Mr. Adam Warren Aston", "cases_count": 2, "all_cases_count": 60}
+{"bar_card": "00783715", "full_name": "Mr. Sean Edward Breen", "cases_count": 1, "all_cases_count": 67}
+{"bar_card": "14194550", "full_name": "Mr. Michael W. 'mike' Minton", "cases_count": 1, "all_cases_count": 98}

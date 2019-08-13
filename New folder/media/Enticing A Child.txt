@@ -1,0 +1,1 @@
+{"bar_card": "00789966", "full_name": "Ms. M. Michele Greene", "cases_count": 1, "all_cases_count": 125}

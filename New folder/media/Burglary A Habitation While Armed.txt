@@ -1,0 +1,1 @@
+{"bar_card": "00796240", "full_name": "Mr. Martin Eric Braddy", "cases_count": 1, "all_cases_count": 251}

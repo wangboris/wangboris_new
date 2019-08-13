@@ -1,0 +1,12 @@
+{"bar_card": "24068071", "full_name": "Mr. Gabriel Caleb Price", "cases_count": 3, "all_cases_count": 418}
+{"bar_card": "00788692", "full_name": "Ms. Debra Ann Windsor", "cases_count": 2, "all_cases_count": 1008}
+{"bar_card": "04705400", "full_name": "Mr. Joseph A. Connors III", "cases_count": 1, "all_cases_count": 338}
+{"bar_card": "06768500", "full_name": "Mr. Abe Factor", "cases_count": 1, "all_cases_count": 908}
+{"bar_card": "06855600", "full_name": "Ms. Helena Foret Faulkner", "cases_count": 1, "all_cases_count": 200}
+{"bar_card": "10098100", "full_name": "Mr. Douglas W. Howell III", "cases_count": 1, "all_cases_count": 707}
+{"bar_card": "16460150", "full_name": "Mr. Christopher David Raesz", "cases_count": 1, "all_cases_count": 83}
+{"bar_card": "16984600", "full_name": "Mr. Michael David Robbins", "cases_count": 1, "all_cases_count": 611}
+{"bar_card": "18692100", "full_name": "Ms. Valencia Bush", "cases_count": 1, "all_cases_count": 126}
+{"bar_card": "21236300", "full_name": "Mr. Richard E. Wetzel", "cases_count": 1, "all_cases_count": 344}
+{"bar_card": "24076105", "full_name": "Susannah Elizabeth Prucka", "cases_count": 1, "all_cases_count": 17}
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 1, "all_cases_count": 780}

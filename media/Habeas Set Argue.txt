@@ -1,0 +1,2 @@
+{"bar_card": "09587100", "full_name": "Mr. Boris A. Hidalgo", "cases_count": 1, "all_cases_count": 29}
+{"bar_card": "14194550", "full_name": "Mr. Michael W. 'mike' Minton", "cases_count": 1, "all_cases_count": 98}

@@ -1,0 +1,7 @@
+{"bar_card": "00787421", "full_name": "Ms. Amy Eikel", "cases_count": 2, "all_cases_count": 24}
+{"bar_card": "24080720", "full_name": "Shane Andrew 'Shane' Pennington", "cases_count": 2, "all_cases_count": 18}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 1, "all_cases_count": 1000}
+{"bar_card": "18600600", "full_name": "Mr. Gregory  Duane 'Greg' Smith", "cases_count": 1, "all_cases_count": 315}
+{"bar_card": "18838700", "full_name": "Ms. M. Joy 'Joy M. Soloway' Soloway", "cases_count": 1, "all_cases_count": 173}
+{"bar_card": "24055673", "full_name": "Ms. Yvonne Y. 'Yvonne' Ho", "cases_count": 1, "all_cases_count": 18}
+{"bar_card": "24073872", "full_name": "Mr. Nicholas Barrows Bacarisse", "cases_count": 1, "all_cases_count": 48}

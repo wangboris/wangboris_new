@@ -1,0 +1,7 @@
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 4, "all_cases_count": 170}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 2, "all_cases_count": 1000}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 2, "all_cases_count": 481}
+{"bar_card": "00790323", "full_name": "Ms. Gena Blount Bunn", "cases_count": 1, "all_cases_count": 105}
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 1, "all_cases_count": 433}
+{"bar_card": "11707550", "full_name": "Ms. Suzanne Marie Kramer", "cases_count": 1, "all_cases_count": 378}
+{"bar_card": "24053478", "full_name": "Ms. Andrea Ren'ee Simmons", "cases_count": 1, "all_cases_count": 221}

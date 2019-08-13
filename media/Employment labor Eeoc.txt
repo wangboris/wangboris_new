@@ -1,0 +1,4 @@
+{"bar_card": "00797504", "full_name": "Mr. Jonathan Scott Stoger", "cases_count": 10, "all_cases_count": 130}
+{"bar_card": "24045423", "full_name": "Mr. Adam Warren Aston", "cases_count": 2, "all_cases_count": 60}
+{"bar_card": "04086600", "full_name": "Ms. Andrea Chan", "cases_count": 1, "all_cases_count": 146}
+{"bar_card": "24014084", "full_name": "Mr. Norman Ray Giles", "cases_count": 1, "all_cases_count": 24}

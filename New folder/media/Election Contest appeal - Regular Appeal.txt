@@ -1,0 +1,16 @@
+{"bar_card": "12437100", "full_name": "Mr. Keith Clark Livesay", "cases_count": 6, "all_cases_count": 347}
+{"bar_card": "24068079", "full_name": "Jerad Wayne 'Jerad' Najvar", "cases_count": 3, "all_cases_count": 7}
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 2, "all_cases_count": 228}
+{"bar_card": "15707300", "full_name": "Ms. Collyn Ann Peddie", "cases_count": 2, "all_cases_count": 67}
+{"bar_card": "24068658", "full_name": "Ms. Sarah Ann Duncan", "cases_count": 2, "all_cases_count": 6}
+{"bar_card": "24071942", "full_name": "Ms. Elizabeth Diane 'Lizz' Alvarez", "cases_count": 2, "all_cases_count": 9}
+{"bar_card": "24070751", "full_name": "Mr. Maitreya Tomlinson", "cases_count": 1, "all_cases_count": 51}
+{"bar_card": "24002433", "full_name": "Mr. Kurt Kuhn", "cases_count": 1, "all_cases_count": 189}
+{"bar_card": "24026905", "full_name": "Ms. Lisa  Erin 'Lisa' Hobbs", "cases_count": 1, "all_cases_count": 128}
+{"bar_card": "24032801", "full_name": "Mr. Leif Alexander Olson", "cases_count": 1, "all_cases_count": 47}
+{"bar_card": "24032953", "full_name": "Ms. Amanda Eileen Staine Peterson", "cases_count": 1, "all_cases_count": 64}
+{"bar_card": "24041839", "full_name": "Mr. Dylan Benjamen Russell", "cases_count": 1, "all_cases_count": 78}
+{"bar_card": "02495500", "full_name": "Ms. Elizabeth G. 'Heidi' Bloch", "cases_count": 1, "all_cases_count": 200}
+{"bar_card": "09580400", "full_name": "Mr. Max Renea 'Renea' Hicks", "cases_count": 1, "all_cases_count": 74}
+{"bar_card": "13610650", "full_name": "Mr. Charles W. McGarry", "cases_count": 1, "all_cases_count": 287}
+{"bar_card": "15254700", "full_name": "Mr. Rene O. Oliveira", "cases_count": 1, "all_cases_count": 66}

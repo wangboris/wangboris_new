@@ -1,0 +1,14 @@
+{"bar_card": "00797504", "full_name": "Mr. Jonathan Scott Stoger", "cases_count": 2, "all_cases_count": 130}
+{"bar_card": "07827700", "full_name": "Ms. Ellen Gerson Tagtmeier", "cases_count": 2, "all_cases_count": 38}
+{"bar_card": "24065563", "full_name": "Mr. Scott Andrew Kitner", "cases_count": 2, "all_cases_count": 4}
+{"bar_card": "24070027", "full_name": "Mr. Gavin Burke Justiss", "cases_count": 2, "all_cases_count": 25}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 1, "all_cases_count": 1000}
+{"bar_card": "00783715", "full_name": "Mr. Sean Edward Breen", "cases_count": 1, "all_cases_count": 67}
+{"bar_card": "01520050", "full_name": "Mr. Daryl W. Bailey", "cases_count": 1, "all_cases_count": 20}
+{"bar_card": "11770575", "full_name": "Mr. Marc Evan Kutner", "cases_count": 1, "all_cases_count": 18}
+{"bar_card": "16245550", "full_name": "Ms. Karen S. Precella", "cases_count": 1, "all_cases_count": 86}
+{"bar_card": "24007807", "full_name": "Mr. Nicholas Arthur Parma", "cases_count": 1, "all_cases_count": 62}
+{"bar_card": "24056265", "full_name": "Mr. Jonathan Erick Sandlin", "cases_count": 1, "all_cases_count": 1}
+{"bar_card": "24066318", "full_name": "Mr. Andrew Farish 'ANDREW' York", "cases_count": 1, "all_cases_count": 15}
+{"bar_card": "24078869", "full_name": "Jonathan Mark Little", "cases_count": 1, "all_cases_count": 30}
+{"bar_card": "24091222", "full_name": "Aaron Eduardo Chibli", "cases_count": 1, "all_cases_count": 3}

@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% block head_title %} {{ lawyer.full_name }} Profile || {{ block.super }} {% endblock head_title %}
+{% load extra_filters %}
+
+{% block content %}
+        <div class="row jumbotron container" id="profile" style="margin: auto; background: #f7f6f6; padding: 43px 50px 43px 50px;">
+            <div class="col-lg-3 col-md-12">
+                {% load static %}
+                {% if lawyer.profile_img %}
+                    <img src="{{ lawyer.profile_img|get_avatar_url }}" alt="{{ lawyer.full_name }}" align="left" style="width:200px;height:270px;border-radius:10px;border:3px solid #047e95;">
+                {% else %}
+                    <img src="{% static 'images/no_avatar.jpg' %}" alt="{{ lawyer.full_name }}" align="left" style="width:200px;height:260px;border-radius:10px;border:3px solid #047e95;">
+                {% endif %}
+            </div>
+
+            <div class="col-lg-6 col-md-12 la-profile">
+                <h3 class="sub_small_title" style="padding-bottom:20px;">{{ lawyer.full_name }}</h3>
+                <p><strong>Status: </strong> {{ lawyer.status }}</p>
+                <p><strong>Company: </strong> {{ lawyer.company }}</p>
+
+                <p><strong>Bar Card Number: </strong> {{ lawyer.bar_card }}</p>
+                <p><strong>TX License Date: </strong> {{ lawyer.license_date }}</p>
+                <p><strong>Primary Practice Location: </strong> {{ lawyer.practice_location }}</p>
+
+                <p><strong>Address: </strong>{{ lawyer.address|split_address|index:0 }}, {{ lawyer.address|split_address|index:1 }}</p>
+
+                <p><strong>Statutory Profile Last Certified On: </strong> {{ lawyer.statutory_profile_date }}</p>
+            </div>
+
+            <div class="col-lg-3 col-md-12 la-address">
+                <h3 class="sub_small_title">Address on Map</h3>
+                <p>{{ lawyer.address }}</p>
+    {#            <img class="show-desktop" src="{{ lawyer.gmaps_img }}" alt="{{ lawyer.address }}" title="{{ lawyer.address }}">#}
+            </div>
+        </div>
+        <div class="container profile_board_shadow"></div>
+    <br>
+
+    <div id="rounded_rectangle_profile" class="jumbotron container" style="padding: 3px;">
+        <br>
+        <h4 align="middle" style="color: aliceblue!important;"><strong>Number of Cases filled by this Attorney: </strong>{{ cases|length }}
+            <a href="/cases/{{ lawyer.bar_card }}"><strong id="cases-details-link"> (See All Cases Details) </strong> </a></h4><br>
+    </div>
+    <br>
+    <div>
+        <h3 class="sub_small_title" align="middle" style="font-size: 40px">Summary of the Cases Represented</h3>
+        <div class="container search-results-table" style="text-align: center;padding-top: 15px">
+
+            <table id="la_summary_case_represent" class="sortable table table-hover table-bordered table-sm table-striped" style="background: white">
+                <thead>
+                    <th style="width: 30%!important; font-size: 1.3rem">Number of Cases</th>
+                    <th style="font-size: 1.3rem">Case Type</th>
+                </thead>
+                <tbody>
+                    {% for case in filtered_cases %}
+                    <tr>
+                        {% if case.highlight %}
+                        <td><a style="color: white !important;" href="/cases/{{ lawyer.bar_card }}/?case_type={{ case.case_type|get_case_type }}">{{ case.count_type }}</a></td>
+                        <td style="text-align: left"><a style="color: white !important;" href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}">{{ case.case_type }}</a></td>
+                        {% else %}
+                        <td><a href="/cases/{{ lawyer.bar_card }}/?case_type={{ case.case_type|get_case_type }}">{{ case.count_type }}</a></td>
+                        <td style="text-align: left"><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}">{{ case.case_type }}</a></td>
+                        {% endif %}
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div><br>
+    </div>
+{% endblock %}

@@ -1,0 +1,4 @@
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 3, "all_cases_count": 780}
+{"bar_card": "05630480", "full_name": "Ms. Katharine Kalinke 'Kathy' Decker", "cases_count": 1, "all_cases_count": 78}
+{"bar_card": "24033062", "full_name": "Ms. Grace Eun Hae Shin", "cases_count": 1, "all_cases_count": 132}
+{"bar_card": "24073751", "full_name": "Ms. Shara D. Saget", "cases_count": 1, "all_cases_count": 84}

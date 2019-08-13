@@ -1,0 +1,1 @@
+{"bar_card": "09887175", "full_name": "Ms. Mary Jo Holloway", "cases_count": 2, "all_cases_count": 59}

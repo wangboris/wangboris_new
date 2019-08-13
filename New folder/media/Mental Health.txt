@@ -1,0 +1,23 @@
+{"bar_card": "00788670", "full_name": "Mr. Barry Conrad Willey", "cases_count": 3, "all_cases_count": 47}
+{"bar_card": "24076880", "full_name": "Mr. Michael Weston Morris", "cases_count": 3, "all_cases_count": 46}
+{"bar_card": "22243420", "full_name": "Mr. Thomas Anthony 'Tom' Zakes", "cases_count": 2, "all_cases_count": 129}
+{"bar_card": "24068556", "full_name": "Ms. Laura Elena Durbin", "cases_count": 2, "all_cases_count": 144}
+{"bar_card": "00787813", "full_name": "Mr. Kevin P. Keating", "cases_count": 2, "all_cases_count": 315}
+{"bar_card": "04661700", "full_name": "Mr. George R. Conkey", "cases_count": 1, "all_cases_count": 99}
+{"bar_card": "06662300", "full_name": "Mr. David A. Escamilla", "cases_count": 1, "all_cases_count": 314}
+{"bar_card": "11910100", "full_name": "Ms. Libra Joy 'Libby' Lange", "cases_count": 1, "all_cases_count": 106}
+{"bar_card": "16215500", "full_name": "Mr. Bruce Stephen Powers", "cases_count": 1, "all_cases_count": 102}
+{"bar_card": "20526300", "full_name": "Mr. James A. 'Jimmy' Vaught", "cases_count": 1, "all_cases_count": 108}
+{"bar_card": "21633500", "full_name": "Mr. Joseph Rutherford Willie II", "cases_count": 1, "all_cases_count": 346}
+{"bar_card": "24004685", "full_name": "Ms. Cori Ann 'Cori' Harbour-Valdez", "cases_count": 1, "all_cases_count": 59}
+{"bar_card": "24051190", "full_name": "Ms. Kimberly Joy 'Kim' Duncan", "cases_count": 1, "all_cases_count": 163}
+{"bar_card": "24062942", "full_name": "Mr. Daniel Dale Plake", "cases_count": 1, "all_cases_count": 4}
+{"bar_card": "24068071", "full_name": "Mr. Gabriel Caleb Price", "cases_count": 1, "all_cases_count": 418}
+{"bar_card": "24073550", "full_name": "Colby Austin Stout", "cases_count": 1, "all_cases_count": 5}
+{"bar_card": "24078284", "full_name": "Bryan Thomas Bufkin", "cases_count": 1, "all_cases_count": 15}
+{"bar_card": "24078338", "full_name": "Kayla Marie Puga", "cases_count": 1, "all_cases_count": 4}
+{"bar_card": "24083252", "full_name": "Carey Colin Jensen", "cases_count": 1, "all_cases_count": 102}
+{"bar_card": "00788692", "full_name": "Ms. Debra Ann Windsor", "cases_count": 1, "all_cases_count": 1008}
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 1, "all_cases_count": 780}
+{"bar_card": "00796044", "full_name": "Ms. Darla McLeroy", "cases_count": 1, "all_cases_count": 15}
+{"bar_card": "02020700", "full_name": "Mr. Elmer C. Beckworth Jr.", "cases_count": 1, "all_cases_count": 183}

@@ -1,0 +1,3 @@
+{"bar_card": "18600600", "full_name": "Mr. Gregory  Duane 'Greg' Smith", "cases_count": 2, "all_cases_count": 315}
+{"bar_card": "19684500", "full_name": "Ben Taylor", "cases_count": 2, "all_cases_count": 226}
+{"bar_card": "19712250", "full_name": "Ms. Leslie C. 'Leslie Copeland' Taylor", "cases_count": 2, "all_cases_count": 56}

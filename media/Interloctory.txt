@@ -1,0 +1,6 @@
+{"bar_card": "24070027", "full_name": "Mr. Gavin Burke Justiss", "cases_count": 4, "all_cases_count": 25}
+{"bar_card": "00791985", "full_name": "Mr. Gregory Norman 'Greg Ziegler' Ziegler", "cases_count": 2, "all_cases_count": 196}
+{"bar_card": "24007818", "full_name": "Ms. Rosalyn Renee Tippett", "cases_count": 2, "all_cases_count": 38}
+{"bar_card": "24012371", "full_name": "Mr. Kevin Graham Cain", "cases_count": 2, "all_cases_count": 146}
+{"bar_card": "00787295", "full_name": "Mr. Thomas B. 'Thomas' Cowart", "cases_count": 1, "all_cases_count": 82}
+{"bar_card": "24027676", "full_name": "Ms. Hilaree Ann Casada", "cases_count": 1, "all_cases_count": 58}

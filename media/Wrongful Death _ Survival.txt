@@ -1,0 +1,6 @@
+{"bar_card": "18838700", "full_name": "Ms. M. Joy 'Joy M. Soloway' Soloway", "cases_count": 2, "all_cases_count": 173}
+{"bar_card": "00787731", "full_name": "Mr. Michael D. Hudgins", "cases_count": 1, "all_cases_count": 90}
+{"bar_card": "11546600", "full_name": "Ms. Lisa Renee Kivett", "cases_count": 1, "all_cases_count": 18}
+{"bar_card": "12816200", "full_name": "Mr. Alan Neil Magenheim", "cases_count": 1, "all_cases_count": 98}
+{"bar_card": "19684500", "full_name": "Ben Taylor", "cases_count": 1, "all_cases_count": 226}
+{"bar_card": "24012975", "full_name": "Mr. Steven  Jon Knight", "cases_count": 1, "all_cases_count": 134}

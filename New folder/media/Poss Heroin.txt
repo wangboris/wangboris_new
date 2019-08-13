@@ -1,0 +1,14 @@
+{"bar_card": "24050279", "full_name": "Ms. Riann Christine Moore", "cases_count": 3, "all_cases_count": 320}
+{"bar_card": "03395000", "full_name": "Ms. Rikke Burke Graber", "cases_count": 1, "all_cases_count": 76}
+{"bar_card": "05630480", "full_name": "Ms. Katharine Kalinke 'Kathy' Decker", "cases_count": 1, "all_cases_count": 78}
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 1, "all_cases_count": 792}
+{"bar_card": "16827220", "full_name": "Mr. Charles E. Rice", "cases_count": 1, "all_cases_count": 49}
+{"bar_card": "17790500", "full_name": "Mr. Stanley G. Schneider", "cases_count": 1, "all_cases_count": 711}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 1, "all_cases_count": 203}
+{"bar_card": "19550620", "full_name": "Mr. Dean M. Swanda", "cases_count": 1, "all_cases_count": 319}
+{"bar_card": "24025227", "full_name": "Ms. Bridget Woody Holloway", "cases_count": 1, "all_cases_count": 535}
+{"bar_card": "24038803", "full_name": "Ms. Janet Celeste Carter 'Celeste' Blackburn", "cases_count": 1, "all_cases_count": 112}
+{"bar_card": "24048680", "full_name": "Mr. Michael Mowla", "cases_count": 1, "all_cases_count": 290}
+{"bar_card": "24073751", "full_name": "Ms. Shara D. Saget", "cases_count": 1, "all_cases_count": 84}
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 1, "all_cases_count": 780}
+{"bar_card": "24092227", "full_name": "William Reece 'Rhys' Carson", "cases_count": 1, "all_cases_count": 57}

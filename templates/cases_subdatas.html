@@ -1,0 +1,169 @@
+{% extends "base.html" %}
+{% block head_title %} {{ cases.0.lawyer.full_name }} Cases || {{ block.super }} {% endblock head_title %}
+{% load extra_filters %}
+{% load static %}
+
+{% block content %}
+    <h1 class="sub_title alink_all_black" style="text-align: center"><a href="/lawyer/{{ case.lawyer_id }}">{{ case.lawyer }}</a></h1><br>
+    <div class="table-responsive" style="overflow-y: auto;">
+    <table id="{{ case.id }}" border=1, class="table table-hover table-bordered cases-table search-results-table table-striped">
+{#    <table id="{{ case.id }}" border="1" style="border-collapse:collapse; border: 1px solid gray;" width="100%">#}
+        <thead class="alink_all_white">
+            <th style="width: 20%!important; text-align: center"><a id="events_{{ case.id }}" class="ajax_case" href="javascript:void(0)">CASE EVENTS</a></th>
+            <th style="width: 25%!important; text-align: center"><a id="trial_{{ case.id }}" class="ajax_case" href="javascript:void(0)">TRIAL COURT INFORMATION</a></th>
+            <th style="width: 25%!important; text-align: center"><a id="parties_{{ case.id }}" class="ajax_case" href="javascript:void(0)">PARTIES</a></th>
+            <th style="width: 10%!important; text-align: center"><a id="calendars_{{ case.id }}" class="ajax_case" href="javascript:void(0)">CALENDARS</a></th>
+            <th style="width: 30%!important; text-align: center"><a id="briefs_{{ case.id }}" class="ajax_case" href="javascript:void(0)">APPELLATE BRIEFS</a></th>
+        </thead>
+    </table>
+    </div>
+    <div id="case_content_{{ case.id }}">
+        <br>{{ case.case_events | safe }}
+    </div>
+    <br><br>
+
+<script type='text/javascript' src="{% static "jquery-3.3.1.min.js" %}"></script>
+<script type='text/javascript'>
+
+    $(document).ready(function () {
+        var subdata_tblname = $('#case_content_{{ case.id }} table').attr('class');
+
+        $("#case_content_{{ case.id }} div>div>div>div:first").css('transform','scale(1, 1.2)');
+        var txt = $("#case_content_{{ case.id }} div>div>div>div:first").text();
+        $("#case_content_{{ case.id }} div>div>div>div:first").html("<h3 style='font-family: myFirstFont'>" + txt + "</h3");
+
+        $("#case_content_{{ case.id }} table").attr('class', subdata_tblname + 'sortable table table-hover table-bordered cases-table search-results-table table-striped');
+        $("#case_content_{{ case.id }} table thead").attr('class', 'alink_all_white');
+        $("#case_content_{{ case.id }} table").attr('style', 'text-align: center; vertical-align: middle');
+
+        $('#case_content_{{ case.id }} table:first.table-bordered').attr('style', 'border: 1px solid #c4c7ca; margin-top:20px');
+        $('#case_content_{{ case.id }} table:first.table-bordered > thead > tr > th').attr('style', 'border: 1px solid #c4c7ca; vertical-align: middle');
+        $('#case_content_{{ case.id }} table:first.table-bordered > tbody > tr > td').attr('style', 'border: 1px solid #c4c7ca; background: white; text-align:center; vertical-align: middle');
+
+        $('#case_content_{{ case.id }} table.table-bordered thead th:first').attr('style','width: 20% !important');
+        $('#case_content_{{ case.id }} table.table-bordered thead th:nth-child(2)').attr('style', 'width: 25% !important; text-align:center');
+        $('#case_content_{{ case.id }} table.table-bordered thead th:nth-child(3)').attr('style', 'width: 25% !important; text-align:center');
+        $('#case_content_{{ case.id }} table.table-bordered thead th:nth-child(4)').attr('style', 'width: 30% !important; text-align:center');
+    });
+
+
+	$(document).ready(function() {
+{#        var id = $("#category").attr('value').split('_')[1];#}
+{#        $.ajax({#}
+{#            url: '/ajax_case/',#}
+{#            data: {data: $("#category").attr('value')},#}
+{#            success: function (data) {#}
+{#                $("#case_content_" + id).html(data);#}
+{#            }#}
+{#        });#}
+
+    $(".ajax_case").click(function () {
+        var id = $(this).attr('id').split('_')[1];
+
+        $.ajax({
+            url: '/ajax_case/',
+            data: {data: $(this).attr('id')},
+            success: function (data) {
+                $("#case_content_" + id).html(data.split('::')[1]);
+                if(data.split('::')[0] === 'events'){
+
+                    {#console.log('case event.............');#}
+                    var subdata_tblname = $('#case_content_{{ case.id }} table').attr('class');
+
+                    $("#case_content_{{ case.id }} div>div>div>div:first").css('transform','scale(1, 1.2)');
+                    var txt = $("#case_content_{{ case.id }} div>div>div>div:first").text();
+                    $("#case_content_{{ case.id }} div>div>div>div:first").html("<h3 style='font-family: myFirstFont'>" + txt + "</h3");
+
+                    $("#case_content_{{ case.id }} table").attr('class', subdata_tblname + 'sortable table table-hover table-bordered cases-table search-results-table table-striped');
+                    $("#case_content_{{ case.id }} table thead").attr('class', 'alink_all_white');
+                    $("#case_content_{{ case.id }} table").attr('style', 'text-align: center; vertical-align: middle');
+
+                    $('#case_content_{{ case.id }} table:first.table-bordered').attr('style', 'border: 1px solid #c4c7ca; margin-top:20px');
+                    $('#case_content_{{ case.id }} table:first.table-bordered > thead > tr > th').attr('style', 'border: 1px solid #c4c7ca; vertical-align: middle');
+                    $('#case_content_{{ case.id }} table:first.table-bordered > tbody > tr > td').attr('style', 'border: 1px solid #c4c7ca; background: white; text-align:center; vertical-align: middle');
+
+                    $('#case_content_{{ case.id }} table thead th:first').attr('style','width: 20% !important; text-align:center');
+                    $('#case_content_{{ case.id }} table thead th:nth-child(2)').attr('style', 'width: 25% !important; text-align:center');
+                    $('#case_content_{{ case.id }} table thead th:nth-child(3)').attr('style', 'width: 25% !important; text-align:center');
+                    $('#case_content_{{ case.id }} table thead th:nth-child(4)').attr('style', 'width: 30% !important; text-align:center');
+                }
+                else if(data.split('::')[0] === 'trial'){
+                    {#console.log('trial.............');#}
+
+                    subdata_tblname = $('#case_content_{{ case.id }} div>div>div>div:nth-child(2)').attr('class');
+
+                    $("#case_content_{{ case.id }} div>div>div>div>:first").attr('style','transform: scale(1, 1.2); margin-bottom: 20px');
+                    txt = $("#case_content_{{ case.id }} div>div>div>div>div:first").text();
+                    console.log(txt);
+                    $("#case_content_{{ case.id }} div>div>div>div>:first").html("<h3 style='font-family: myFirstFont'>" + txt + "</h3");
+
+                    $("#case_content_{{ case.id }} >div>div>div>div>div:nth-child(2)").attr('class', subdata_tblname + ' sortable table table-hover table-bordered cases-table search-results-table table-striped');
+                    $("#case_content_{{ case.id }} >div>div>div>div>div:nth-child(2)").attr('style', 'display: inline-flex');
+
+                    $("#case_content_{{ case.id }} >div>div>div>div>div:nth-child(2)>div:first").attr('style','width: 15%');
+                    $("#case_content_{{ case.id }} >div>div>div>div>div:nth-child(2)>div:nth-child(2)").attr('style','width: 15%');
+                    $("#case_content_{{ case.id }} >div>div>div>div>div:nth-child(2)>div:nth-child(3)").attr('style','width: 20%');
+                    $("#case_content_{{ case.id }} >div>div>div>div>div:nth-child(2)>div:nth-child(4)").attr('style','width: 15%');
+                    $("#case_content_{{ case.id }} >div>div>div>div>div:nth-child(2)>div:nth-child(5)").attr('style','width: 20%');
+                    $("#case_content_{{ case.id }} >div>div>div>div>div:nth-child(2)>div:nth-child(6)").attr('style','width: 15%');
+
+                    $("#case_content_{{ case.id }} >div>div>div>div .span2").attr('style','line-height: 50px; color: white; background: #3498db; font-weight: 700; border-right: 1px solid white;');
+                    $("#case_content_{{ case.id }} >div>div>div>div .span4").attr('style','line-height: 50px; background: white; border-right: 1px solid #c4c7ca;');
+                    $("#case_content_{{ case.id }} >div>div>div>div label").attr('style','margin-bottom: 0px;');
+
+
+
+                }
+                else if(data.split('::')[0] === 'calendars' || data.split('::')[0] === 'parties'){
+                    subdata_tblname = $('#case_content_{{ case.id }} table').attr('class');
+
+                    $("#case_content_{{ case.id }} div>div>div>div:first").css('transform','scale(1, 1.2)');
+                    txt = $("#case_content_{{ case.id }} div>div>div>div:first").text();
+                    $("#case_content_{{ case.id }} div>div>div>div:first").html("<h3 style='font-family: myFirstFont'>" + txt + "</h3");
+
+                    $("#case_content_{{ case.id }} table").attr('class', subdata_tblname + 'sortable table table-hover table-bordered cases-table search-results-table table-striped');
+                    $("#case_content_{{ case.id }} table thead").attr('class', 'alink_all_white');
+                    $("#case_content_{{ case.id }} table").attr('style', 'text-align: center; vertical-align: middle');
+
+                    $('#case_content_{{ case.id }} table:first.table-bordered').attr('style', 'border: 1px solid #c4c7ca; margin-top:20px');
+                    $('#case_content_{{ case.id }} table:first.table-bordered > thead > tr > th').attr('style', 'border: 1px solid #c4c7ca; vertical-align: middle');
+                    $('#case_content_{{ case.id }} table:first.table-bordered > tbody > tr > td').attr('style', 'border: 1px solid #c4c7ca; background: white; text-align:center; vertical-align: middle');
+
+                    $('#case_content_{{ case.id }} table.table-bordered thead th:first').attr('style','width: 20% !important; text-align:center');
+                    $('#case_content_{{ case.id }} table.table-bordered thead th:nth-child(2)').attr('style', 'width: 20% !important; text-align:center');
+                    $('#case_content_{{ case.id }} table.table-bordered thead th:nth-child(3)').attr('style', 'width: 45% !important; text-align:center');
+                    $('#case_content_{{ case.id }} table.table-bordered thead th:nth-child(4)').attr('style', 'width: 15% !important; text-align:center');
+
+                }
+                else if(data.split('::')[0] === 'briefs'){
+                    {#console.log('briefs.............');#}
+                    subdata_tblname = $('#case_content_{{ case.id }} table').attr('class');
+
+                    $("#case_content_{{ case.id }} div>div>div>div:first").css('transform','scale(1, 1.2)');
+                    txt = $("#case_content_{{ case.id }} div>div>div>div:first").text();
+                    $("#case_content_{{ case.id }} div>div>div>div:first").html("<h3 style='font-family: myFirstFont'>" + txt + "</h3");
+
+                    $("#case_content_{{ case.id }} table").attr('class', subdata_tblname + 'sortable table table-hover table-bordered cases-table search-results-table table-striped');
+                    $("#case_content_{{ case.id }} table thead").attr('class', 'alink_all_white');
+                    $("#case_content_{{ case.id }} table").attr('style', 'text-align: center; vertical-align: middle');
+
+                    $('#case_content_{{ case.id }} table:first.table-bordered').attr('style', 'border: 1px solid #c4c7ca; margin-top:20px');
+                    $('#case_content_{{ case.id }} table:first.table-bordered > thead > tr > th').attr('style', 'border: 1px solid #c4c7ca; vertical-align: middle');
+                    $('#case_content_{{ case.id }} table:first.table-bordered > tbody > tr > td').attr('style', 'border: 1px solid #c4c7ca; background: white; text-align:center; vertical-align: middle');
+
+                    $('#case_content_{{ case.id }} table.table-bordered thead th:first').attr('style','width: 20% !important; text-align:center');
+                    $('#case_content_{{ case.id }} table.table-bordered thead th:nth-child(2)').attr('style', 'width: 30% !important; text-align:center');
+                    $('#case_content_{{ case.id }} table.table-bordered thead th:nth-child(3)').attr('style', 'width: 25% !important; text-align:center');
+                    $('#case_content_{{ case.id }} table.table-bordered thead th:nth-child(4)').attr('style', 'width: 25% !important; text-align:center');
+
+                    $('thead input').attr('type', 'submit').remove();
+                }
+
+
+
+            }
+        });
+    });
+    });
+</script>
+{% endblock %}

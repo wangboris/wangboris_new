@@ -1,0 +1,1 @@
+{"bar_card": "19712250", "full_name": "Ms. Leslie C. 'Leslie Copeland' Taylor", "cases_count": 1, "all_cases_count": 56}

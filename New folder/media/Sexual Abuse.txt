@@ -1,0 +1,13 @@
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 2, "all_cases_count": 397}
+{"bar_card": "01643100", "full_name": "Mr. Wessley T. 'Wes' Ball", "cases_count": 2, "all_cases_count": 210}
+{"bar_card": "00784242", "full_name": "Ms. Cynthia Watson Hellstern", "cases_count": 2, "all_cases_count": 318}
+{"bar_card": "10592300", "full_name": "Mr. John G. Jasuta", "cases_count": 1, "all_cases_count": 203}
+{"bar_card": "14194550", "full_name": "Mr. Michael W. 'mike' Minton", "cases_count": 1, "all_cases_count": 98}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 1, "all_cases_count": 477}
+{"bar_card": "24048680", "full_name": "Mr. Michael Mowla", "cases_count": 1, "all_cases_count": 290}
+{"bar_card": "24051062", "full_name": "Ms. Jamie Dean Matuska", "cases_count": 1, "all_cases_count": 83}
+{"bar_card": "24058364", "full_name": "Shannon Leigh 'Leigh' Love", "cases_count": 1, "all_cases_count": 12}
+{"bar_card": "24074756", "full_name": "Mr. Nathan Edward Morey", "cases_count": 1, "all_cases_count": 158}
+{"bar_card": "90001967", "full_name": "Mr. Brian Marcus Middleton", "cases_count": 1, "all_cases_count": 452}
+{"bar_card": "00788692", "full_name": "Ms. Debra Ann Windsor", "cases_count": 1, "all_cases_count": 1008}
+{"bar_card": "08578900", "full_name": "Ms. Victoria 'Vicky' Guerra", "cases_count": 1, "all_cases_count": 113}

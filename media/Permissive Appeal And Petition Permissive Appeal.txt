@@ -1,0 +1,13 @@
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 5, "all_cases_count": 1000}
+{"bar_card": "24041839", "full_name": "Mr. Dylan Benjamen Russell", "cases_count": 4, "all_cases_count": 175}
+{"bar_card": "24046274", "full_name": "Ms. Liberty Dawn Lay", "cases_count": 2, "all_cases_count": 36}
+{"bar_card": "24062969", "full_name": "Ms. Tasha Tedrow Roberts", "cases_count": 2, "all_cases_count": 7}
+{"bar_card": "00787731", "full_name": "Mr. Michael D. Hudgins", "cases_count": 1, "all_cases_count": 90}
+{"bar_card": "00795714", "full_name": "Mr. Aaron D. Weinberg", "cases_count": 1, "all_cases_count": 7}
+{"bar_card": "12694200", "full_name": "Ms. Erin E. Lunceford", "cases_count": 1, "all_cases_count": 74}
+{"bar_card": "12816200", "full_name": "Mr. Alan Neil Magenheim", "cases_count": 1, "all_cases_count": 98}
+{"bar_card": "24007151", "full_name": "Mr. William David Ellerman", "cases_count": 1, "all_cases_count": 16}
+{"bar_card": "24008614", "full_name": "Ms. Melissa D. Waden", "cases_count": 1, "all_cases_count": 39}
+{"bar_card": "24060397", "full_name": "Mr. Allen Ryan 'Ryan' Paulsen", "cases_count": 1, "all_cases_count": 27}
+{"bar_card": "24070453", "full_name": "Mr. Jeffrey Robert Pruitt", "cases_count": 1, "all_cases_count": 13}
+{"bar_card": "24101785", "full_name": "Aaron Treat  Gankofskie", "cases_count": 1, "all_cases_count": 1}

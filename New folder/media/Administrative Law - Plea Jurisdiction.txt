@@ -1,0 +1,6 @@
+{"bar_card": "01814000", "full_name": "Mr. Roy Lee 'Roy' Barrett", "cases_count": 2, "all_cases_count": 76}
+{"bar_card": "12761550", "full_name": "Mr. Charles Alfred 'C. Alfred Mackenzie' Mackenzie", "cases_count": 2, "all_cases_count": 120}
+{"bar_card": "20559350", "full_name": "Mr. Ramon G. 'Ray' Viada III", "cases_count": 2, "all_cases_count": 123}
+{"bar_card": "01805800", "full_name": "Mr. Horacio L. Barrera", "cases_count": 1, "all_cases_count": 82}
+{"bar_card": "05834200", "full_name": "Mr. Donald Bradley 'Brad' Dickinson", "cases_count": 1, "all_cases_count": 92}
+{"bar_card": "24071537", "full_name": "Mr. Clinton Warren 'Clint' Twaddell III", "cases_count": 1, "all_cases_count": 34}

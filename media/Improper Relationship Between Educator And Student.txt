@@ -1,0 +1,1 @@
+{"bar_card": "00790323", "full_name": "Ms. Gena Blount Bunn", "cases_count": 1, "all_cases_count": 105}

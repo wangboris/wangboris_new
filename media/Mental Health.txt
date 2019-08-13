@@ -1,0 +1,5 @@
+{"bar_card": "24053478", "full_name": "Ms. Andrea Ren'ee Simmons", "cases_count": 4, "all_cases_count": 221}
+{"bar_card": "24076880", "full_name": "Mr. Michael Weston Morris", "cases_count": 3, "all_cases_count": 49}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 2, "all_cases_count": 1000}
+{"bar_card": "22243420", "full_name": "Mr. Thomas Anthony 'Tom' Zakes", "cases_count": 2, "all_cases_count": 129}
+{"bar_card": "24087203", "full_name": "Ms. Sarah Cathryn Kuntz Brandon", "cases_count": 1, "all_cases_count": 47}

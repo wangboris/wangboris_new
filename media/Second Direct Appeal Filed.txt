@@ -1,0 +1,1 @@
+{"bar_card": "24045423", "full_name": "Mr. Adam Warren Aston", "cases_count": 2, "all_cases_count": 60}

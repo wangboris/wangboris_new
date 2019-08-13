@@ -1,0 +1,6 @@
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 5, "all_cases_count": 1000}
+{"bar_card": "24092804", "full_name": "Mr. Owen Joseph McGovern", "cases_count": 2, "all_cases_count": 16}
+{"bar_card": "09307050", "full_name": "Mr. Karl E. Hays", "cases_count": 1, "all_cases_count": 126}
+{"bar_card": "16115400", "full_name": "Mr. Aaron Mark Pool", "cases_count": 1, "all_cases_count": 33}
+{"bar_card": "18600600", "full_name": "Mr. Gregory  Duane 'Greg' Smith", "cases_count": 1, "all_cases_count": 315}
+{"bar_card": "24084523", "full_name": "Joseph Robert 'Joe' Greenhill", "cases_count": 1, "all_cases_count": 42}

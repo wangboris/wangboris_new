@@ -1,0 +1,4 @@
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 11, "all_cases_count": 780}
+{"bar_card": "18692100", "full_name": "Ms. Valencia Bush", "cases_count": 8, "all_cases_count": 126}
+{"bar_card": "04661700", "full_name": "Mr. George R. Conkey", "cases_count": 4, "all_cases_count": 99}
+{"bar_card": "24033062", "full_name": "Ms. Grace Eun Hae Shin", "cases_count": 1, "all_cases_count": 132}

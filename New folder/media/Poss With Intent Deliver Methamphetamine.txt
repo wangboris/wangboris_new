@@ -1,0 +1,21 @@
+{"bar_card": "24068071", "full_name": "Mr. Gabriel Caleb Price", "cases_count": 3, "all_cases_count": 418}
+{"bar_card": "24033062", "full_name": "Ms. Grace Eun Hae Shin", "cases_count": 3, "all_cases_count": 132}
+{"bar_card": "08193000", "full_name": "Mr. Ronald Leroy Goranson", "cases_count": 2, "all_cases_count": 81}
+{"bar_card": "08240320", "full_name": "Mr. Jerald Kaplan Graber", "cases_count": 1, "all_cases_count": 265}
+{"bar_card": "09280100", "full_name": "Mr. Steven Knowles Hayes", "cases_count": 1, "all_cases_count": 47}
+{"bar_card": "12334020", "full_name": "Mr. Steven J. Lieberman", "cases_count": 1, "all_cases_count": 171}
+{"bar_card": "17136525", "full_name": "Ms. Judy Rodgers Hodgkiss", "cases_count": 1, "all_cases_count": 135}
+{"bar_card": "17610700", "full_name": "Mr. Forrest L. Sanderson III", "cases_count": 1, "all_cases_count": 99}
+{"bar_card": "24025227", "full_name": "Ms. Bridget Woody Holloway", "cases_count": 1, "all_cases_count": 535}
+{"bar_card": "24038803", "full_name": "Ms. Janet Celeste Carter 'Celeste' Blackburn", "cases_count": 1, "all_cases_count": 112}
+{"bar_card": "24046959", "full_name": "Ms. Tiffany Nicole McWilliams", "cases_count": 1, "all_cases_count": 13}
+{"bar_card": "24050279", "full_name": "Ms. Riann Christine Moore", "cases_count": 1, "all_cases_count": 320}
+{"bar_card": "24051190", "full_name": "Ms. Kimberly Joy 'Kim' Duncan", "cases_count": 1, "all_cases_count": 163}
+{"bar_card": "24055658", "full_name": "Mr. Alexis Enrique 'Alex' Hernandez", "cases_count": 1, "all_cases_count": 64}
+{"bar_card": "24069969", "full_name": "Mr. Niles Stefan Illich", "cases_count": 1, "all_cases_count": 180}
+{"bar_card": "24073751", "full_name": "Ms. Shara D. Saget", "cases_count": 1, "all_cases_count": 84}
+{"bar_card": "24074341", "full_name": "Ms. Constance Kay 'Connie' Hall", "cases_count": 1, "all_cases_count": 26}
+{"bar_card": "00790919", "full_name": "Mr. Troy Alan Hornsby", "cases_count": 1, "all_cases_count": 323}
+{"bar_card": "24092227", "full_name": "William Reece 'Rhys' Carson", "cases_count": 1, "all_cases_count": 57}
+{"bar_card": "00794430", "full_name": "Mr. M. Ariel Payan", "cases_count": 1, "all_cases_count": 190}
+{"bar_card": "02916300", "full_name": "Mr. William A. Bratton III", "cases_count": 1, "all_cases_count": 120}

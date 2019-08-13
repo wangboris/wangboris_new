@@ -1,0 +1,3 @@
+{"bar_card": "16492500", "full_name": "Mr. Bruce Edwin Ramage", "cases_count": 1, "all_cases_count": 87}
+{"bar_card": "19712250", "full_name": "Ms. Leslie C. 'Leslie Copeland' Taylor", "cases_count": 1, "all_cases_count": 56}
+{"bar_card": "24014084", "full_name": "Mr. Norman Ray Giles", "cases_count": 1, "all_cases_count": 24}

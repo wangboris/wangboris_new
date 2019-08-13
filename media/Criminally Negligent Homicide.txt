@@ -1,0 +1,3 @@
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 1, "all_cases_count": 433}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 1, "all_cases_count": 170}
+{"bar_card": "24085201", "full_name": "Vikash Madhusudan Bhakta", "cases_count": 1, "all_cases_count": 9}

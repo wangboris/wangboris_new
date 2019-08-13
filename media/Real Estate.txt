@@ -1,0 +1,4 @@
+{"bar_card": "00788407", "full_name": "Mr. N. West 'West' Short", "cases_count": 2, "all_cases_count": 108}
+{"bar_card": "00797504", "full_name": "Mr. Jonathan Scott Stoger", "cases_count": 2, "all_cases_count": 130}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 2, "all_cases_count": 161}
+{"bar_card": "12816200", "full_name": "Mr. Alan Neil Magenheim", "cases_count": 1, "all_cases_count": 98}

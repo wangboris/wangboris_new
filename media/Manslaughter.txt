@@ -1,0 +1,5 @@
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 4, "all_cases_count": 1000}
+{"bar_card": "11707550", "full_name": "Ms. Suzanne Marie Kramer", "cases_count": 2, "all_cases_count": 378}
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 1, "all_cases_count": 433}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 1, "all_cases_count": 170}
+{"bar_card": "24076880", "full_name": "Mr. Michael Weston Morris", "cases_count": 1, "all_cases_count": 49}

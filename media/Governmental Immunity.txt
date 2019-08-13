@@ -1,0 +1,8 @@
+{"bar_card": "19684500", "full_name": "Ben Taylor", "cases_count": 2, "all_cases_count": 226}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 1, "all_cases_count": 1000}
+{"bar_card": "24007151", "full_name": "Mr. William David Ellerman", "cases_count": 1, "all_cases_count": 16}
+{"bar_card": "24059920", "full_name": "Mr. Aaron Michael Heckaman", "cases_count": 1, "all_cases_count": 2}
+{"bar_card": "24070453", "full_name": "Mr. Jeffrey Robert Pruitt", "cases_count": 1, "all_cases_count": 13}
+{"bar_card": "24073872", "full_name": "Mr. Nicholas Barrows Bacarisse", "cases_count": 1, "all_cases_count": 48}
+{"bar_card": "24077883", "full_name": "Briana Marie Webb", "cases_count": 1, "all_cases_count": 21}
+{"bar_card": "24102899", "full_name": "Karen Shafrir Vladeck", "cases_count": 1, "all_cases_count": 2}

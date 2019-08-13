@@ -1,0 +1,3 @@
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 23, "all_cases_count": 433}
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 2, "all_cases_count": 189}
+{"bar_card": "24027592", "full_name": "Mr. Calvin Deshon Parks", "cases_count": 1, "all_cases_count": 45}

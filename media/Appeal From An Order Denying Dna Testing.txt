@@ -1,0 +1,4 @@
+{"bar_card": "19834000", "full_name": "Mr. Lane D. Thibodeaux", "cases_count": 2, "all_cases_count": 151}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 1, "all_cases_count": 1000}
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 1, "all_cases_count": 189}
+{"bar_card": "24053478", "full_name": "Ms. Andrea Ren'ee Simmons", "cases_count": 1, "all_cases_count": 221}

@@ -1,0 +1,17 @@
+{"bar_card": "04086600", "full_name": "Ms. Andrea Chan", "cases_count": 5, "all_cases_count": 146}
+{"bar_card": "18600600", "full_name": "Mr. Gregory  Duane 'Greg' Smith", "cases_count": 5, "all_cases_count": 315}
+{"bar_card": "00797504", "full_name": "Mr. Jonathan Scott Stoger", "cases_count": 2, "all_cases_count": 130}
+{"bar_card": "11094350", "full_name": "Hon. Jeff Kaplan", "cases_count": 2, "all_cases_count": 20}
+{"bar_card": "18562620", "full_name": "Ms. Deanna Dean 'Deanna' Lovett", "cases_count": 2, "all_cases_count": 140}
+{"bar_card": "22285050", "full_name": "Mr. Michael John ZomcIk", "cases_count": 2, "all_cases_count": 60}
+{"bar_card": "00783715", "full_name": "Mr. Sean Edward Breen", "cases_count": 1, "all_cases_count": 67}
+{"bar_card": "00784961", "full_name": "Ms. Kathryn L. Shilling", "cases_count": 1, "all_cases_count": 24}
+{"bar_card": "03692650", "full_name": "Mr. Aaron  Scott 'Scott' Campbell", "cases_count": 1, "all_cases_count": 21}
+{"bar_card": "09618950", "full_name": "Ms. Barbara  A. Hilburn", "cases_count": 1, "all_cases_count": 66}
+{"bar_card": "11767200", "full_name": "Mr. Curtis J. Kurhajec", "cases_count": 1, "all_cases_count": 27}
+{"bar_card": "12694200", "full_name": "Ms. Erin E. Lunceford", "cases_count": 1, "all_cases_count": 74}
+{"bar_card": "14194550", "full_name": "Mr. Michael W. 'mike' Minton", "cases_count": 1, "all_cases_count": 98}
+{"bar_card": "18838700", "full_name": "Ms. M. Joy 'Joy M. Soloway' Soloway", "cases_count": 1, "all_cases_count": 173}
+{"bar_card": "19684500", "full_name": "Ben Taylor", "cases_count": 1, "all_cases_count": 226}
+{"bar_card": "24046191", "full_name": "Ms. Leann Kay Rafferty", "cases_count": 1, "all_cases_count": 16}
+{"bar_card": "24075384", "full_name": "Mr. Eric Sherwood Rich", "cases_count": 1, "all_cases_count": 3}

@@ -1,0 +1,6 @@
+{"bar_card": "11707550", "full_name": "Ms. Suzanne Marie Kramer", "cases_count": 2, "all_cases_count": 378}
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 1, "all_cases_count": 189}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 1, "all_cases_count": 170}
+{"bar_card": "24042073", "full_name": "Mr. Jared Philip Tyler", "cases_count": 1, "all_cases_count": 9}
+{"bar_card": "24053478", "full_name": "Ms. Andrea Ren'ee Simmons", "cases_count": 1, "all_cases_count": 221}
+{"bar_card": "24095294", "full_name": "David Wayne  Barr", "cases_count": 1, "all_cases_count": 4}

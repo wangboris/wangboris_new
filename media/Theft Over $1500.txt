@@ -1,0 +1,2 @@
+{"bar_card": "11572040", "full_name": "Mr. Joseph W. Kline", "cases_count": 1, "all_cases_count": 60}
+{"bar_card": "24064140", "full_name": "Aaron C. 'Clay' Graham", "cases_count": 1, "all_cases_count": 38}

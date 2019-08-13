@@ -1,0 +1,3 @@
+{"bar_card": "02333900", "full_name": "Mr. James Wade Birdwell", "cases_count": 2, "all_cases_count": 199}
+{"bar_card": "00797202", "full_name": "Ms. Meredith Bishop Parenti", "cases_count": 1, "all_cases_count": 32}
+{"bar_card": "18600600", "full_name": "Mr. Gregory  Duane 'Greg' Smith", "cases_count": 1, "all_cases_count": 315}

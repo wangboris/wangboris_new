@@ -1,0 +1,11 @@
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 8, "all_cases_count": 1000}
+{"bar_card": "24027592", "full_name": "Mr. Calvin Deshon Parks", "cases_count": 5, "all_cases_count": 45}
+{"bar_card": "24053478", "full_name": "Ms. Andrea Ren'ee Simmons", "cases_count": 4, "all_cases_count": 221}
+{"bar_card": "11707550", "full_name": "Ms. Suzanne Marie Kramer", "cases_count": 3, "all_cases_count": 378}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 3, "all_cases_count": 481}
+{"bar_card": "00790323", "full_name": "Ms. Gena Blount Bunn", "cases_count": 2, "all_cases_count": 105}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 2, "all_cases_count": 170}
+{"bar_card": "19834000", "full_name": "Mr. Lane D. Thibodeaux", "cases_count": 1, "all_cases_count": 151}
+{"bar_card": "22243420", "full_name": "Mr. Thomas Anthony 'Tom' Zakes", "cases_count": 1, "all_cases_count": 129}
+{"bar_card": "24092227", "full_name": "William Reece 'Rhys' Carson", "cases_count": 1, "all_cases_count": 57}
+{"bar_card": "24100660", "full_name": "Nina Lynn  Scherach", "cases_count": 1, "all_cases_count": 48}

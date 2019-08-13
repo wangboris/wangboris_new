@@ -1,0 +1,376 @@
+00000005,Mr. Jeffrey S. 'Jeff' Boyd,1000
+17833400,Mr. David A. Schulman,481
+10431500,Mr. Allen C. Isbell,433
+11707550,Ms. Suzanne Marie Kramer,378
+18600600,Mr. Gregory  Duane 'Greg' Smith,315
+19684500,Ben Taylor,226
+24053478,Ms. Andrea Ren'ee Simmons,221
+02333900,Mr. James Wade Birdwell,199
+00791985,Mr. Gregory Norman 'Greg Ziegler' Ziegler,196
+13737650,Mr. Tuck Moody McLain,189
+24041839,Mr. Dylan Benjamen Russell,175
+18838700,Ms. M. Joy 'Joy M. Soloway' Soloway,173
+24027742,Mr. Trey David Picard,170
+02145500,Mr. James Bruce 'Bruce' Bennett,161
+19834000,Mr. Lane D. Thibodeaux,151
+04086600,Ms. Andrea Chan,146
+24012371,Mr. Kevin Graham Cain,146
+18562620,Ms. Deanna Dean 'Deanna' Lovett,140
+24012975,Mr. Steven  Jon Knight,134
+00797504,Mr. Jonathan Scott Stoger,130
+22243420,Mr. Thomas Anthony 'Tom' Zakes,129
+09307050,Mr. Karl E. Hays,126
+00788407,Mr. N. West 'West' Short,108
+00790323,Ms. Gena Blount Bunn,105
+24070751,Mr. Maitreya Tomlinson,104
+00788666,Ms. Elizabeth Ann Wiley,101
+12816200,Mr. Alan Neil Magenheim,98
+14194550,Mr. Michael W. 'mike' Minton,98
+00787731,Mr. Michael D. Hudgins,90
+16492500,Mr. Bruce Edwin Ramage,87
+16245550,Ms. Karen S. Precella,86
+04462500,Mr. Perry Cockerell,83
+00787295,Mr. Thomas B. 'Thomas' Cowart,82
+24064888,Ms. Janice Lynn 'Janice' Berg,82
+11476350,Mr. Charles G. Kingsbury,80
+24060015,Mr. Daron L. Janis,79
+08193000,Mr. Ronald Leroy Goranson,76
+12694200,Ms. Erin E. Lunceford,74
+16642000,Mr. Harry Max Reasoner,73
+00790782,Mr. Kendall Matthew 'Kendall' Gray,69
+13913800,Mr. David H. Melasky,69
+00796744,Mr. James Stuart 'Jim' Hering,68
+15057500,Mr. George C. Noelke,68
+00783715,Mr. Sean Edward Breen,67
+09618950,Ms. Barbara  A. Hilburn,66
+24008053,Ms. Kelli Lynn Smith,65
+24035844,Ms. Lindsay Owen Williams,65
+24055658,Mr. Alexis Enrique 'Alex' Hernandez,64
+24007807,Mr. Nicholas Arthur Parma,62
+11572040,Mr. Joseph W. Kline,60
+22285050,Mr. Michael John ZomcIk,60
+24045423,Mr. Adam Warren Aston,60
+09887175,Ms. Mary Jo Holloway,59
+24027676,Ms. Hilaree Ann Casada,58
+24092227,William Reece 'Rhys' Carson,57
+19712250,Ms. Leslie C. 'Leslie Copeland' Taylor,56
+24076880,Mr. Michael Weston Morris,49
+24073872,Mr. Nicholas Barrows Bacarisse,48
+24100660,Nina Lynn  Scherach,48
+24087203,Ms. Sarah Cathryn Kuntz Brandon,47
+13336520,Mr. Robert C. McCabe,46
+24027592,Mr. Calvin Deshon Parks,45
+11216840,Mr. Charles Timothy Kelly,44
+00798332,Mr. Vincent Ka-Lin Lo,42
+24084523,Joseph Robert 'Joe' Greenhill,42
+24047013,Ms. Elissa Underwood  Marek ,40
+02797600,Mr. Michael C. Boyle,39
+24008614,Ms. Melissa D. Waden,39
+07827700,Ms. Ellen Gerson Tagtmeier,38
+19713750,Ms. Mary Taylor 'Mary Henderson' Henderson,38
+21321600,Mr. Ori Tucker White,38
+24007818,Ms. Rosalyn Renee Tippett,38
+24064140,Aaron C. 'Clay' Graham,38
+04251050,Mr. Stephen A. Cihal,37
+24008009,Mr. Daniel David 'Dan' Semanek,36
+24046274,Ms. Liberty Dawn Lay,36
+00790256,Mr. Bryan Lawrence 'Bryan Baker' Baker,35
+00784444,Ms. Michelle  Sorokwasz Lanfear,34
+00789246,Ms. Tammy Marie Danberg-Farney,34
+16115400,Mr. Aaron Mark Pool,33
+00797202,Ms. Meredith Bishop Parenti,32
+09380928,Mr. G. David 'David' Heiman,32
+08203900,Mr. Philip S. 'Phil' Gordon,30
+24078869,Jonathan Mark Little,30
+24085517,Jonathan Frank 'Jon' Parchman,30
+09587100,Mr. Boris A. Hidalgo,29
+19834200,Mr. Lee Douglas Thibodeaux,29
+11795430,Ms. Stephanie Laird 'Stephanie Tolson' Tolson,28
+11767200,Mr. Curtis J. Kurhajec,27
+24060397,Mr. Allen Ryan 'Ryan' Paulsen,27
+00793641,Mr. Dennis Jean Drouillard,26
+24003728,Ms. Sondrea Joy King,26
+24043460,Mr. Noe M Reyes,26
+24059400,Ms. Alison Rae Ashmore,26
+24070027,Mr. Gavin Burke Justiss,25
+00784961,Ms. Kathryn L. Shilling,24
+00787421,Ms. Amy Eikel,24
+00790748,Ms. Ann Marie 'Ana' Jordan,24
+01654700,Mr. Robert S. Ballentine,24
+24014084,Mr. Norman Ray Giles,24
+24041694,Mr. Aaron Michael Pier,24
+20301700,Mr. Richard Ellis 'Richard' Turkel,23
+24074269,Mr. Benjamin Allen 'Ben' Geslison,23
+24007574,Jeffrey Scott Lowenstein,22
+24051554,Mr. Andrew Kohl 'Drew' York,22
+03692650,Mr. Aaron  Scott 'Scott' Campbell,21
+04970300,Mr. Michael J. 'Mike' Craddock,21
+20578100,Ms. Dorothea Lee 'Dotty' Vidal,21
+24077883,Briana Marie Webb,21
+01520050,Mr. Daryl W. Bailey,20
+11094350,Hon. Jeff Kaplan,20
+11546600,Ms. Lisa Renee Kivett,18
+11770575,Mr. Marc Evan Kutner,18
+24055673,Ms. Yvonne Y. 'Yvonne' Ho,18
+24080720,Shane Andrew 'Shane' Pennington,18
+04381350,Mr. Paul Raymond Clevenger,17
+09050850,Ms. Amelia Susan 'Amy' Harris,17
+24051230,Ms. Kimberly Renee Rankin,17
+24058695,Ms. Jennifer Lea Kelley,17
+24080659,Paul James 'Paul' Downey,17
+04334500,Ms. Susan Kelley Claybrook,16
+24007151,Mr. William David Ellerman,16
+24045624,Emily Allison Quillen,16
+24046191,Ms. Leann Kay Rafferty,16
+24079007,Natalie Ann Anderson ,16
+24092804,Mr. Owen Joseph McGovern,16
+11358050,Mr. Charles L. 'Charles' Kessie,15
+20434850,Mr. Michael D. 'mike' Valicek,15
+24026777,Ms. Jenifer Lynn Olin 'Jenifer' Grace,15
+24066318,Mr. Andrew Farish 'ANDREW' York,15
+24040703,Ms. Caroline Clinton Batten,14
+24079499,Jose Luis Valtzar,14
+24079787,Mr. Jonathan Louis Chaltain,14
+24047261,Mr. Joshua Bennett Somers,13
+24070453,Mr. Jeffrey Robert Pruitt,13
+00790003,Mr. Michael Lyn 'Mike' Gregory,12
+01649500,Mr. Stephen P. 'Steve' Ballantyne,12
+19679450,Mr. David Ross Noel Taubenfeld,12
+24031788,Mr. Matthew William Caligur,12
+24088027,Amber Lynne McKeon-Mueller,12
+03592900,Mr. Colin Paul Cahoon,11
+11769100,Mr. Christopher Louis Kurzner,11
+18685875,Mr. Stewart Kelvin Smith,11
+24010709,Mr. Jeffery Harold Rusthoven,11
+24093084,Mr. John Tyler Runde,11
+00791189,Mr. Arturo Martinez,10
+16399600,Mr. Robert Ellsworth Purgatorio,10
+24085473,Aaron Bayliss Michelsohn,10
+24097533,Courtney Brooke Corbello,10
+00787128,Ms. Sarah Katherine Brandon,9
+00788441,Mr. Joel  Pate Smyer,9
+01174000,Mr. David B. Anderson,9
+21665450,Mr. Larry W. Wilshire,9
+24003663,Mr. Melroy 'Mel' Koehler,9
+24042073,Mr. Jared Philip Tyler,9
+24085201,Vikash Madhusudan Bhakta,9
+24087818,Rachel Marie Felderhoff Jordan,9
+24097837,Bao-Long Ngoc Hoang,9
+00795341,Ms. Kara Pratt,8
+02473050,Ms. Mara Asya Blatt,8
+05745900,Mr. Daniel J. Davis,8
+13395500,Mr. Stephen L. McCleery,8
+24028995,Ms. Heather Lynn Peckham,8
+24060548,Mr. Richard David Salgado,8
+24071159,Afton Roette Trevino,8
+24073910,Ms. Lisa Anne Bennett,8
+24074897,Mr. Adam Hiatt Pierson,8
+24077430,Ms. Eddrea Trashawnda McKnight,8
+00795714,Mr. Aaron D. Weinberg,7
+00797096,Ms. Miryam Raaphorst Mitchell,7
+02550550,Mr. Robert Barron 'Bob' Boemer,7
+16070500,Mr. Matthew G. Pletcher,7
+24012377,Mr. Ramiro Canales,7
+24012984,Mr. Richard Caple Kroger,7
+24062969,Ms. Tasha Tedrow Roberts,7
+24070380,Mr. Arif Panju,7
+24074267,Ms. Meghan Elizabeth Hausler,7
+00784298,Mr. James Warren 'Jim' Hryekewicz,6
+08311900,Mr. Robert Charles Graves,6
+13336725,Mr. Christopher M. McCaffrey,6
+24027221,Ms. Laura Hanley Carlock,6
+24069404,Mr. Jeffrey David 'Jeff' Boyd,6
+24086734,Kristen Reid  Vander-Plas,6
+24087801,Alondra Geneva Johnson,6
+24090106,Mr. Eric Michael Friedman,6
+24092541,Naomi Howard,6
+24103826,Aaron John  Arenas,6
+20499425,Mr. Michael Aaron 'Mike' Varner,5
+24080764,Lauren Allen,5
+24080966,Matthew Gregory 'Matt' Johnston,5
+24093323,Adam Torrance 'Adam' Walton,5
+24094796,Linda Leeser,5
+24100919,Jacob Michael  Bach,5
+24102898,Brian Michael Gargano,5
+24105029,Abigail Elizabeth  Chacon,5
+13493200,Mr. Michael W. McCrum,4
+24035950,Mr. Bryant Steven Banes,4
+24038437,Ms. Jennifer Marie Fremont Simons,4
+24050681,Ms. Shelley Alaynne Grahmann,4
+24065563,Mr. Scott Andrew Kitner,4
+24066296,Mr. Ross Angus Williams,4
+24069457,Mr. Stephen Andrew Calhoun,4
+24076818,Jonathan Michael 'Jon' Jabcuga,4
+24084057,Jeffrey David Weatherford,4
+24092797,Shane William McDonald,4
+24095294,David Wayne  Barr,4
+24100384,Aaron J.  'Aaron' Campbell,4
+00784609,Mr. Russell W. Mills,3
+00788076,Mr. Mark William Moran,3
+05535200,Ms. Rebecca J. Davis,3
+24036761,Mr. Aaron Alan 'Aaron' Herbert,3
+24041117,Ms. Christina Gail 'Christina' Hollwarth,3
+24042651,Gant A. 'Gant' Grimes,3
+24044994,Ms. Stephanie Michelle Stodghill 'Stephanie' Harp,3
+24057667,Mr. James Arthur 'James' Rodriguez,3
+24074205,Mr. Jonathan Dane 'Jon' Fischer,3
+24075384,Mr. Eric Sherwood Rich,3
+24075516,Mr. David Vincent Overcash,3
+24079788,Mr. Aaron Christopher Chapman,3
+24091222,Aaron Eduardo Chibli,3
+24097171,Rachel Maureen Taft,3
+24105036,Itzel Martinez,3
+00796586,Mrs. Kimberly Frutiger,2
+06898800,Ms. Sara J. Fendia,2
+16135500,Mr. Eddie Michael Pope,2
+24013596,Mr. James Stephen Sustaita,2
+24041086,Mr. James Wesley 'Wes' Hendrix,2
+24049712,Ms. Kristina Louise Cunningham,2
+24058762,Joshua Ray Willoughby,2
+24059920,Mr. Aaron Michael Heckaman,2
+24061294,Ms. Amber Michelle Grand,2
+24070010,Mr. Matthew Grant 'Grant' Johnston,2
+24080001,Aaron Isadore 'AB' Bryant,2
+24092489,Ms. Katherine Marie 'Katie' Harrington,2
+24092739,Nicholas Howard 'Nick' Maddox,2
+24095351,Christopher Corbin  Sisk,2
+24102823,Robert Henry  'Bob' Ayik,2
+24102829,Zach Paul  Coufal,2
+24102899,Karen Shafrir Vladeck,2
+24104938,Ms. Jennifer Anita Foster,2
+24105881,Aroosa Nizami,2
+00788533,Mr. David Charles Thompson,1
+03087285,Mr. James Sanford 'Jim' Brouner,1
+10229000,Mr. Robert H. Hughes,1
+14094900,Ms. Kimberly Annette Miller,1
+24031754,Laura Lynn Haley,1
+24033060,Mr. Robert Todd Sherwin,1
+24042664,Ms. Korina Barraza,1
+24056265,Mr. Jonathan Erick Sandlin,1
+24056577,Ms. Shaden Yousef Newton,1
+24062747,Mr. Matthew Joseph Goheen,1
+24075025,Mr. William August 'Will' Scheel,1
+24078646,Aaron Michael Heath,1
+24085865,Kirby Jerome 'Kirby' Portley,1
+24085898,Catherine Molloy,1
+24088233,Christopher Andrew 'Chris' Plummer,1
+24090481,Ms. Jasmine Selia Wynton,1
+24091908,Pamela Jeanette Newell,1
+24095728,William Kriston  Knisley,1
+24098417,Kelly Christopher 'Chris' Shelton,1
+24099876,John Robert  Lamont,1
+24100659,Christine Marie  Rister,1
+24101054,Brian Scott  Watson,1
+24101426,Katia Nicole  Alcantar,1
+24101785,Aaron Treat  Gankofskie,1
+24102331,Stephen Lewis  'Stephen' Pasta,1
+24102509,Dylan Joseph  Smith,1
+24102559,Jennifer Lynn  Taylor,1
+24103734,Theresa Golde,1
+24105748,Christian Joseph  Cowart,1
+24106305,Joshua Michaels,1
+00785814,Mr. Ramon M. 'None' Delvillar-Gallardo,0
+00795340,Mr. John P. Farrell,0
+04913000,Mr. Robert C. Cowan,0
+06136090,Mr. Tracy Wesley Druce,0
+10785000,Mr. Robert C. Johnson,0
+11649000,Mr. Robert C. Koehl,0
+11795454,Mr. Robert Charles W. Lamb,0
+13210500,Mr. Michael D. Matthews,0
+14701800,Mr. Michael D. Murphy,0
+16992000,Mr. John L. Roberson,0
+18116700,Mr. James W. Sharp,0
+21010600,Mr. John Howard Weaver,0
+24004586,Ms. Cheryl Latrice Langston,0
+24007556,Mr. Robert Byron Little,0
+24029681,Ms. Joan 'Joan' Larson,0
+24034275,Ms. Kimberly Deanne Phillips,0
+24035610,Mr. Michael Dale Rose,0
+24038481,Ms. Sarah Jeanne Clark Davis,0
+24039180,Mr. Kevin Daryl Smith,0
+24040149,Ms. Maureen Teresa McKeon,0
+24049531,Ms. Andrea Ann 'Andrea' Brown,0
+24049535,Ms. Christina Walton 'Crissie' Stephenson,0
+24052967,David Michael Rapp,0
+24055225,Ms. Emily L. Buchanan,0
+24059082,Manesh Jiten 'Manesh' Shah,0
+24062601,Ms. Natalie Kaye Barletta,0
+24064149,Jennifer E. 'Jenn' Kelley,0
+24065085,Ms. Sarah Janet Cottrell,0
+24066104,Mr. Gregory David 'Greg' Smith,0
+24067115,Mr. Troy Grayden Taylor,0
+24067846,Ms. Hillary Anne Rolfes,0
+24069807,Mr. Brandon Jonathan Goodwin,0
+24070740,Mr. David Andrew Thompson,0
+24070966,Mr. Ryan Moore Craig,0
+24072312,Mr. Jonathan Keith Ross,0
+24072846,Davina Carson Wittick,0
+24074117,Mr. Travis Edward DeArman,0
+24074212,Mr. Jordan Hunter Flournoy,0
+24075171,Mr. Jared Michael Tong,0
+24076750,Lara Lucy Vartivarian,0
+24077796,Lauren Paige  Allen,0
+24079488,Leslie Marie Tyroch,0
+24079987,Ms. Amber Christine Bollinger Shushan,0
+24082265,Stephanie Nicole Neal,0
+24082621,Lauren Brooke Crawford 'Lauren Allen' Allen,0
+24084483,Bryan Gerald Hall,0
+24085480,Christine Elizabeth Natarajan,0
+24086254,Elissa Anne Hugman,0
+24086404,Abigail Elyse Brown,0
+24086896,Mathilde Keith 'Tilly' Kamin,0
+24087006,Alexander Raymond  Comsudi,0
+24088526,David Michael Thompson,0
+24089834,Jennifer Neal Bruning,0
+24091083,Maria Elena Gonzalez Pate,0
+24091387,Chigozirim Ugochukwu  Nwaogwugwu,0
+24091829,Randy Edward  Lopez,0
+24091945,Leida Yisset  Prieto,0
+24092421,Danielle Antonia Gilbert,0
+24092544,Reid Thomas Hudgins,0
+24092594,Shawn Christopher Johnston,0
+24092950,Cristine Ellen Patty,0
+24093649,Alfred Raymond 'Al' Trudeau,0
+24093890,Mark Francis Juba,0
+24093958,James Dennis  'Jim' Coleman,0
+24094045,Stephanie Diane  'Diane Neal' Neal,0
+24094403,Anjali Sharma,0
+24094773,Maura Keri Kennedy,0
+24095903,Ms. Kelly Jean Melina 'Kelly Tompkins' Tompkins,0
+24096057,Kaitlyn Ann  King,0
+24096607,Kristen Davis,0
+24097341,James Brandon 'Brandon' Barnes,0
+24097488,Aaron Daniel Chapman,0
+24098244,James Dillon Perl,0
+24100511,Justin M.  Stevens,0
+24101502,Aaron Kevin  Bender,0
+24101568,Emily Louise  'Emily' Buchanan,0
+24102550,Jason Bradley Supplee,0
+24102962,Smaranda Draghia,0
+24103149,Andrew Mark Pettit,0
+24103157,Camilla Jeanette  Hundley,0
+24103189,Janet Lee  Hermann,0
+24103467,Jonathan Dean Ross,0
+24103584,Mr. Clayton Christopher Littlefield,0
+24103623,Christian Bryan 'Bryan' FitzGerald,0
+24103745,Thomas E.  'Tommy' Damico,0
+24103891,Jennifer Denise  'Jennifer' Nasser,0
+24104097,Eman 'Eman Sojoodi' Sojoodi-Haghighi,0
+24104661,Amelia hilda  caicedo,0
+24104944,Andrew Chongseh Kim,0
+24105032,Matthew Edward  Furse,0
+24105046,Sunejiro 'Sune' Agbuke,0
+24105130,Susan Arnold  Shubert,0
+24105187,Mr. Curtis Francis 'Curtis' Doebbler,0
+24105422,Kyle Randall  'Kyle' Akin,0
+24105491,Sean M.  Affleck,0
+24105583,Jenna C.  Castleman,0
+24105730,Mauricio Vazquez,0
+24106133,Zachary Allen  'Zach' Irons,0
+24106419,Tania Sethi,0
+24106508,David Allen  Thompson,0
+24106520,Daniel P.  Troiano,0
+24106712,Hayley Ann  Cutler,0
+24107011,Lindsay R.  Drennan,0
+24110711,Sarah Weissman  'Sarah Anderson' Anderson,0
+90001895,Mr. Daniel Stephen 'Danny' Dexter,0

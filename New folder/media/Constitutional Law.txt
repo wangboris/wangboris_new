@@ -1,0 +1,7 @@
+{"bar_card": "16922300", "full_name": "Ms. Jennifer Scott 'Riggs' Riggs", "cases_count": 2, "all_cases_count": 169}
+{"bar_card": "09580400", "full_name": "Mr. Max Renea 'Renea' Hicks", "cases_count": 2, "all_cases_count": 74}
+{"bar_card": "16017700", "full_name": "Mr. James B. Pinson", "cases_count": 1, "all_cases_count": 173}
+{"bar_card": "24083966", "full_name": "Karson Karl Thompson", "cases_count": 1, "all_cases_count": 4}
+{"bar_card": "17267700", "full_name": "Ms. Barbara E. Rosenberg", "cases_count": 1, "all_cases_count": 184}
+{"bar_card": "24046627", "full_name": "Ms. Constance H. 'Connie' Pfeiffer", "cases_count": 1, "all_cases_count": 92}
+{"bar_card": "15544900", "full_name": "Mr. E. Lee Parsley", "cases_count": 1, "all_cases_count": 114}

@@ -1,0 +1,3 @@
+{"bar_card": "24092227", "full_name": "William Reece 'Rhys' Carson", "cases_count": 2, "all_cases_count": 57}
+{"bar_card": "08193000", "full_name": "Mr. Ronald Leroy Goranson", "cases_count": 1, "all_cases_count": 76}
+{"bar_card": "24100660", "full_name": "Nina Lynn  Scherach", "cases_count": 1, "all_cases_count": 48}

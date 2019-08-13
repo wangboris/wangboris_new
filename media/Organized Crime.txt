@@ -1,0 +1,1 @@
+{"bar_card": "24035844", "full_name": "Ms. Lindsay Owen Williams", "cases_count": 4, "all_cases_count": 65}

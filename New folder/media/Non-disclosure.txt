@@ -1,0 +1,5 @@
+{"bar_card": "09388250", "full_name": "Mr. William Scott 'Bill' Helfand", "cases_count": 1, "all_cases_count": 294}
+{"bar_card": "19844300", "full_name": "Mr. Bruce K. Thomas", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "24001791", "full_name": "Ms. Marla Diane Broaddus", "cases_count": 1, "all_cases_count": 17}
+{"bar_card": "24037203", "full_name": "Ms. Shelby Leigh O'Brien", "cases_count": 1, "all_cases_count": 51}
+{"bar_card": "24050397", "full_name": "Mr. Joseph Carl 'Carl' Cecere", "cases_count": 1, "all_cases_count": 47}

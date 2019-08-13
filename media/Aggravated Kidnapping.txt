@@ -1,0 +1,9 @@
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 15, "all_cases_count": 189}
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 4, "all_cases_count": 433}
+{"bar_card": "24027592", "full_name": "Mr. Calvin Deshon Parks", "cases_count": 4, "all_cases_count": 45}
+{"bar_card": "11707550", "full_name": "Ms. Suzanne Marie Kramer", "cases_count": 3, "all_cases_count": 378}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 3, "all_cases_count": 481}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 3, "all_cases_count": 170}
+{"bar_card": "24092227", "full_name": "William Reece 'Rhys' Carson", "cases_count": 3, "all_cases_count": 57}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 2, "all_cases_count": 1000}
+{"bar_card": "24093323", "full_name": "Adam Torrance 'Adam' Walton", "cases_count": 1, "all_cases_count": 5}

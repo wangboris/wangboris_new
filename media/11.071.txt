@@ -1,0 +1,4 @@
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 12, "all_cases_count": 481}
+{"bar_card": "24042073", "full_name": "Mr. Jared Philip Tyler", "cases_count": 3, "all_cases_count": 9}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 1, "all_cases_count": 1000}
+{"bar_card": "11707550", "full_name": "Ms. Suzanne Marie Kramer", "cases_count": 1, "all_cases_count": 378}

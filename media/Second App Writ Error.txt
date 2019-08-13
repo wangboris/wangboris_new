@@ -1,0 +1,12 @@
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 4, "all_cases_count": 161}
+{"bar_card": "19684500", "full_name": "Ben Taylor", "cases_count": 4, "all_cases_count": 226}
+{"bar_card": "18600600", "full_name": "Mr. Gregory  Duane 'Greg' Smith", "cases_count": 3, "all_cases_count": 315}
+{"bar_card": "02333900", "full_name": "Mr. James Wade Birdwell", "cases_count": 2, "all_cases_count": 199}
+{"bar_card": "13913800", "full_name": "Mr. David H. Melasky", "cases_count": 2, "all_cases_count": 69}
+{"bar_card": "16245550", "full_name": "Ms. Karen S. Precella", "cases_count": 2, "all_cases_count": 86}
+{"bar_card": "18838700", "full_name": "Ms. M. Joy 'Joy M. Soloway' Soloway", "cases_count": 2, "all_cases_count": 173}
+{"bar_card": "04462500", "full_name": "Mr. Perry Cockerell", "cases_count": 1, "all_cases_count": 83}
+{"bar_card": "05745900", "full_name": "Mr. Daniel J. Davis", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "09587100", "full_name": "Mr. Boris A. Hidalgo", "cases_count": 1, "all_cases_count": 29}
+{"bar_card": "11476350", "full_name": "Mr. Charles G. Kingsbury", "cases_count": 1, "all_cases_count": 80}
+{"bar_card": "19712250", "full_name": "Ms. Leslie C. 'Leslie Copeland' Taylor", "cases_count": 1, "all_cases_count": 56}

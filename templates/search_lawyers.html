@@ -1,0 +1,179 @@
+{% extends "base.html" %}
+{% block head_title %} Home || {{ block.super }} {% endblock head_title %}
+
+{% block content %}
+    <div class="container" style="text-align: center">
+        <h1 class="sub_title">Search Attorneys</h1>
+{#    <br>#}
+<style>
+    .previous,.next{
+    border:4px solid #26759E;-webkit-box-shadow: #878787 0px 2px 2px ;-moz-box-shadow: #878787 0px 2px 2px ; box-shadow: #878787 0px 2px 2px ; -webkit-border-radius: 23px; -moz-border-radius: 23px;border-radius: 23px;font-size:13px;font-family:arial, helvetica, sans-serif; padding: 0px 10px 0px 10px;; text-decoration:none; display:inline-block;text-shadow: 2px 2px 0 rgba(0,0,0,0.3);font-weight:bold; color: #FFFFFF;
+    background-color: #3093C7; background-image: -webkit-gradient(linear, left top, left bottom, from(#3093C7), to(#1C5A85));
+    background-image: -webkit-linear-gradient(top, #3093C7, #1C5A85);
+    background-image: -moz-linear-gradient(top, #3093C7, #1C5A85);
+    background-image: -ms-linear-gradient(top, #3093C7, #1C5A85);
+    background-image: -o-linear-gradient(top, #3093C7, #1C5A85);
+    background-image: linear-gradient(to bottom, #3093C7, #1C5A85);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#3093C7, endColorstr=#1C5A85);
+    font-size: 25px;
+    }
+
+    .previous:hover,.next:hover{
+    border:4px solid #26759E;
+    background-color: #26759E; background-image: -webkit-gradient(linear, left top, left bottom, from(#26759E), to(#133D5B));
+    background-image: -webkit-linear-gradient(top, #26759E, #133D5B);
+    background-image: -moz-linear-gradient(top, #26759E, #133D5B);
+    background-image: -ms-linear-gradient(top, #26759E, #133D5B);
+    background-image: -o-linear-gradient(top, #26759E, #133D5B);
+    background-image: linear-gradient(to bottom, #26759E, #133D5B);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#26759E, endColorstr=#133D5B);
+    text-decoration: none;
+    }
+    .arrow-left,.arrow-right
+    {
+        font-size: 25px;
+    }
+    .arrow-left::before {
+        content: '\25c4';
+        padding-right: 0.5em;
+        font-size: 28px;
+        background-image: linear-gradient(to bottom, #3093C7, #1C5A85);
+        border-radius: 23px;
+        padding: 5px;
+        margin-left: -13px;
+        border: 3px solid #26759E;
+    }
+
+    .arrow-right::before {
+        content: '\25ba';
+        padding-right: 0.5em;
+        font-size: 28px;
+        background-image: linear-gradient(to bottom, #3093C7, #1C5A85);
+        border-radius: 23px;
+        padding: 5px;
+        margin-left: -26px;
+        position: relative;
+        border: 3px solid #26759E;
+        left: 28px;
+    }
+    .not-active {
+        pointer-events: none;
+        cursor: default;
+        text-decoration: none;
+        user-select: none;
+        
+        text-shadow: 2px 2px 3px rgba(86, 2, 245, 0.21)
+     }
+     .not-active .last_name
+     {
+        color: #00000008 !important;
+        text-shadow: 2px 2px 3px rgba(86, 2, 245, 0.05)
+     }
+     .alink_all_blue a span,.alink_all_blue a strong
+     {
+        font-size: 18px;
+     }
+     .alink_all_blues a span
+     {
+        font-size: 18px;
+        color:black;
+     }
+    </style>
+    <script>
+        $(document).ready(function(){
+            $( ".alink_all_blues a" ).each(function( index ) {
+                var full_name = $(this).text();
+                var full_names = full_name.split(" ");
+                var first_name = full_names[0] +" " +full_names[1];
+                var last_name = full_name.replace(first_name,"");
+                console.log(first_name);
+                $(this).empty().html("<span class='first_name'>"+first_name+"</span>"+"<span class='last_name'>"+last_name+"</span>");
+                $(this).addClass("not-active");
+
+            });
+            $( ".alink_all_blue a" ).addClass("not-active").addClass("blur");
+        })
+    </script>
+    <div class="row">
+    <div class="col-8 mr-auto" style="margin: 0 auto;">
+    <form class="form-inline">
+        <input class="form-control" placeholder="First Name" name="first_name" value="{{ request.GET.first_name }}" style="opacity: 0.5">
+        <input class="form-control" placeholder="Last Name" name="last_name" value="{{ request.GET.last_name }}" style="opacity: 0.5">
+        <input class="form-control" placeholder="Bar Card Number" name="bar_card" value="{{ request.GET.bar_card }}" style="opacity: 0.5">
+        <input type="submit" value="Search" class="btn btn-primary">
+    </form>
+    </div>
+    </div>
+    <br>
+
+
+    <h3>Results</h3>
+
+    {{lawyers}}
+    <div class="container search-results-table">
+    <table class="sortable table table-hover table-bordered table-striped" style="background: white">
+        <thead>
+            <th>No.</th>
+            <th>Attorney Name &#9650 &#9660</th>
+            <th>Cases Number &#9650 &#9660</th>
+        </thead>
+       
+        <tbody>
+        {% for lawyer in lawyers %}
+        <tr>
+            {% if request.GET.first_name or request.GET.last_name or request.GET.bar_card%}
+            <td> {{ forloop.counter }}</td>
+            {% else %}
+            <td> {{lawyer.index}}</td>
+            {% endif %}
+            <td class="alink_all_blues"><a href="/lawyer/{{ lawyer.bar_card }}">{{ lawyer.full_name }}</a></td>
+            <td class="alink_all_blue"><a href="/cases/{{ lawyer.bar_card }}/?case_type={{ case_type }}"> <strong>{{ lawyer.cases_count }}</strong> </a> </td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    </div>
+    <div class="row">
+            <div class="col-2">
+                {% if lawyers.has_previous %}
+                    <a  class="previous" href="?page={{ lawyers.previous_page_number }}"><span class = "arrow-left"></span>Back</a>
+                {% else %}
+                    <a  class="previous" href="?page=1"><span class = "arrow-left"></span>Back</a>
+                {% endif %}
+            </div>
+            <div class="col-8" style="background:#1a007d;">
+                <div class="col-4"></div>
+                <div class="col-4">
+                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                            
+                            <input type="hidden" name="cmd" value="_s-xclick">
+                            <input type="hidden" name="hosted_button_id" value="5QMDM5J9DUBTY">
+                            <!-- <input type="image" style="width: 84%;margin-left: 127%;" src="https://checkout.paypal.com/pwpp/2.15.7/images/pay-with-paypal.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"> -->
+                            <input type="image" style="width: 50%;margin-left: 142%;" src="http://18.191.83.20/static/images/pay.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"> 
+                            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                        </form>
+                       
+                </div>
+                <div class="col-4"></div>
+                <p style="color:white">By Donating you agree to our <span style="color:#9175fd;font-size: 15px">terms of service</span> and <span style="color:#9175fd;font-size: 15px">privacy policy</span></p>
+            </div>
+            <div class="col-2">
+                {% if lawyers.has_next %}
+                    <a  class="next" href="?page={{ lawyers.next_page_number }}">Next<span class = "arrow-right"></span></a>
+                {% else %}
+                    <a class="next" href="?page=1">Next<span class = "arrow-right"></span></a>
+                {% endif %}
+            </div>
+        </div>
+    
+        {% if session == "true" %}
+            <script>
+                $(document).ready(function(){
+                    $('.alink_all_blues a').removeClass("not-active");
+                    $('.alink_all_blue a').removeClass("not-active");
+                })
+            </script>
+        {% endif %}
+   
+    </div>
+{% endblock %}
+
+

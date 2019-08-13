@@ -1,0 +1,1 @@
+{"bar_card": "20301700", "full_name": "Mr. Richard Ellis 'Richard' Turkel", "cases_count": 1, "all_cases_count": 23}

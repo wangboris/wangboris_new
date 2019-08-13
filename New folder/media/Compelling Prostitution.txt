@@ -1,0 +1,15 @@
+{"bar_card": "00788692", "full_name": "Ms. Debra Ann Windsor", "cases_count": 2, "all_cases_count": 1008}
+{"bar_card": "24068556", "full_name": "Ms. Laura Elena Durbin", "cases_count": 2, "all_cases_count": 144}
+{"bar_card": "24038768", "full_name": "Ms. Sharita W. Williams 'Sharita' Blacknall", "cases_count": 2, "all_cases_count": 49}
+{"bar_card": "04661700", "full_name": "Mr. George R. Conkey", "cases_count": 2, "all_cases_count": 99}
+{"bar_card": "24041834", "full_name": "Mr. Dal Ray 'Dal' Ruggles", "cases_count": 2, "all_cases_count": 78}
+{"bar_card": "24038803", "full_name": "Ms. Janet Celeste Carter 'Celeste' Blackburn", "cases_count": 1, "all_cases_count": 112}
+{"bar_card": "24050279", "full_name": "Ms. Riann Christine Moore", "cases_count": 1, "all_cases_count": 320}
+{"bar_card": "24069969", "full_name": "Mr. Niles Stefan Illich", "cases_count": 1, "all_cases_count": 180}
+{"bar_card": "24070947", "full_name": "Mr. Brian James Newman", "cases_count": 1, "all_cases_count": 61}
+{"bar_card": "00787344", "full_name": "Ms. Nicole Wignall Deborde", "cases_count": 1, "all_cases_count": 307}
+{"bar_card": "24073751", "full_name": "Ms. Shara D. Saget", "cases_count": 1, "all_cases_count": 84}
+{"bar_card": "00796397", "full_name": "Mr. Noel Dade Cooper", "cases_count": 1, "all_cases_count": 76}
+{"bar_card": "08240320", "full_name": "Mr. Jerald Kaplan Graber", "cases_count": 1, "all_cases_count": 265}
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 1, "all_cases_count": 433}
+{"bar_card": "24034373", "full_name": "Ms. Kerrisa Joy Chelkowski", "cases_count": 1, "all_cases_count": 53}

@@ -1,0 +1,5 @@
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 3, "all_cases_count": 1000}
+{"bar_card": "19834000", "full_name": "Mr. Lane D. Thibodeaux", "cases_count": 2, "all_cases_count": 151}
+{"bar_card": "24035844", "full_name": "Ms. Lindsay Owen Williams", "cases_count": 2, "all_cases_count": 65}
+{"bar_card": "00790323", "full_name": "Ms. Gena Blount Bunn", "cases_count": 1, "all_cases_count": 105}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 1, "all_cases_count": 481}

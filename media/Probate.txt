@@ -1,0 +1,12 @@
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 3, "all_cases_count": 161}
+{"bar_card": "00783715", "full_name": "Mr. Sean Edward Breen", "cases_count": 2, "all_cases_count": 67}
+{"bar_card": "00791985", "full_name": "Mr. Gregory Norman 'Greg Ziegler' Ziegler", "cases_count": 2, "all_cases_count": 196}
+{"bar_card": "22285050", "full_name": "Mr. Michael John ZomcIk", "cases_count": 2, "all_cases_count": 60}
+{"bar_card": "24012975", "full_name": "Mr. Steven  Jon Knight", "cases_count": 2, "all_cases_count": 134}
+{"bar_card": "24046274", "full_name": "Ms. Liberty Dawn Lay", "cases_count": 2, "all_cases_count": 36}
+{"bar_card": "24059400", "full_name": "Ms. Alison Rae Ashmore", "cases_count": 2, "all_cases_count": 26}
+{"bar_card": "00000005", "full_name": "Mr. Jeffrey S. 'Jeff' Boyd", "cases_count": 1, "all_cases_count": 1000}
+{"bar_card": "05745900", "full_name": "Mr. Daniel J. Davis", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "19713750", "full_name": "Ms. Mary Taylor 'Mary Henderson' Henderson", "cases_count": 1, "all_cases_count": 38}
+{"bar_card": "19834200", "full_name": "Mr. Lee Douglas Thibodeaux", "cases_count": 1, "all_cases_count": 29}
+{"bar_card": "24100659", "full_name": "Christine Marie  Rister", "cases_count": 1, "all_cases_count": 1}

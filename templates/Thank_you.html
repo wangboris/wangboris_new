@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% load extra_filters %}
+
+{% block head_title %} Cases Types || {{ block.super }} {% endblock head_title %}
+
+{% block content %}
+    <div class="container" style="text-align: center">
+        {% load static %}
+        <h1>Thanks for your Payment {{casetype}} & {{pageNumber}}  </h1>
+        <img style ="width: 60%;"src="http://18.191.83.20/static/images/payment_logo.png">
+    <br>
+   </div>
+   {% if pageNumber != 0 %}
+   <script>
+        window.location.href = "http://18.191.83.20/search_lawyers/?page={{pageNumber}}";
+   </script>
+   {% else %}
+   <script>
+        window.location.href = "http://18.191.83.20/lawyers_list/?case_type={{casetype}}";
+    </script>
+   {% endif %}
+{% endblock %}

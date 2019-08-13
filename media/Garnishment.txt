@@ -1,0 +1,6 @@
+{"bar_card": "00790782", "full_name": "Mr. Kendall Matthew 'Kendall' Gray", "cases_count": 4, "all_cases_count": 69}
+{"bar_card": "01654700", "full_name": "Mr. Robert S. Ballentine", "cases_count": 2, "all_cases_count": 24}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 2, "all_cases_count": 161}
+{"bar_card": "00784444", "full_name": "Ms. Michelle  Sorokwasz Lanfear", "cases_count": 1, "all_cases_count": 34}
+{"bar_card": "24012975", "full_name": "Mr. Steven  Jon Knight", "cases_count": 1, "all_cases_count": 134}
+{"bar_card": "24071159", "full_name": "Afton Roette Trevino", "cases_count": 1, "all_cases_count": 8}

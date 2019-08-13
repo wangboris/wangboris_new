@@ -1,0 +1,6 @@
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 2, "all_cases_count": 792}
+{"bar_card": "00788692", "full_name": "Ms. Debra Ann Windsor", "cases_count": 1, "all_cases_count": 1008}
+{"bar_card": "00789966", "full_name": "Ms. M. Michele Greene", "cases_count": 1, "all_cases_count": 125}
+{"bar_card": "13725200", "full_name": "Mr. Kelly K. 'Kelly' McKinnis", "cases_count": 1, "all_cases_count": 173}
+{"bar_card": "21433100", "full_name": "Mr. Paul Francis Wieneskie", "cases_count": 1, "all_cases_count": 42}
+{"bar_card": "24056168", "full_name": "Mr. Ricardo Pumarejo Jr.", "cases_count": 1, "all_cases_count": 73}

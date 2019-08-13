@@ -1,0 +1,2 @@
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 3, "all_cases_count": 189}
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 2, "all_cases_count": 433}

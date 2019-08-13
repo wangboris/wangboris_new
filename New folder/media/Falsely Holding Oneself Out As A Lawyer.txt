@@ -1,0 +1,6 @@
+{"bar_card": "00788692", "full_name": "Ms. Debra Ann Windsor", "cases_count": 2, "all_cases_count": 1008}
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 2, "all_cases_count": 780}
+{"bar_card": "08240320", "full_name": "Mr. Jerald Kaplan Graber", "cases_count": 1, "all_cases_count": 265}
+{"bar_card": "17790500", "full_name": "Mr. Stanley G. Schneider", "cases_count": 1, "all_cases_count": 711}
+{"bar_card": "19225300", "full_name": "Mr. John William Stickels", "cases_count": 1, "all_cases_count": 286}
+{"bar_card": "24013307", "full_name": "Mr. Peyton Zimmerman Peebles III", "cases_count": 1, "all_cases_count": 326}
